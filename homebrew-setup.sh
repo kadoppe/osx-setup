@@ -17,6 +17,7 @@ binaries=(
   homebrew/dupes/apple-gcc42
   htop
   homebrew/versions/maven2
+  mackup
   mysql
   nodebrew
   postgresql
