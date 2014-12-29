@@ -25,6 +25,7 @@ binaries=(
   reattach-to-user-namespace
   ruby-build
   sonar
+  solr
   the_silver_searcher
   tmux
   z
@@ -49,10 +50,12 @@ apps=(
   google-japanese-ime
   gyazo
   iterm2
+  java
   minecraft
   onepassword
   owncloud
   pg-commander
+  skitch
   skype
   slack
   soundflower
