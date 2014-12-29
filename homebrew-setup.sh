@@ -43,6 +43,7 @@ apps=(
   caskroom/homebrew-versions/macvim-kaoriya
   cyberduck
   dropbox
+  evernote
   firefox
   flip4mac
   flux
