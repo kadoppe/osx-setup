@@ -56,6 +56,7 @@ apps=(
   onepassword
   owncloud
   pg-commander
+  sequel-pro
   skitch
   skype
   slack
