@@ -44,6 +44,7 @@ apps=(
   caskroom/homebrew-versions/macvim-kaoriya
   cyberduck
   dropbox
+  eclipse-java
   evernote
   firefox
   flip4mac
