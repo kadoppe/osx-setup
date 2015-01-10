@@ -28,6 +28,7 @@ binaries=(
   solr
   the_silver_searcher
   tmux
+  typesafe-activator
   z
   zsh
 )
