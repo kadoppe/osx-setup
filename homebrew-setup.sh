@@ -53,6 +53,7 @@ apps=(
   google-japanese-ime
   gyazo
   iterm2
+  intellij-idea
   java
   minecraft
   onepassword
