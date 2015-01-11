@@ -46,7 +46,8 @@ apps=(
   dropbox
   eclipse-java
   evernote
-  firefox
+  firefox-ja
+  firefoxdeveloperedition-ja
   flip4mac
   flux
   google-chrome
