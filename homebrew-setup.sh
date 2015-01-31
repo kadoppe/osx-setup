@@ -40,6 +40,7 @@ apps=(
   alfred
   adobe-creative-cloud
   bartender
+  bathyscaphe
   caffeine
   caskroom/homebrew-versions/macvim-kaoriya
   cyberduck
