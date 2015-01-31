@@ -68,6 +68,7 @@ apps=(
   soundflower
   steam
   virtualbox
+  vivaldi
   vagrant
   vlc
   wineskin-winery
