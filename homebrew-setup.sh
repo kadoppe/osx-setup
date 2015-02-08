@@ -44,6 +44,7 @@ apps=(
   bathyscaphe
   caffeine
   caskroom/homebrew-versions/macvim-kaoriya
+  coteditor
   cyberduck
   dropbox
   eclipse-java
