@@ -15,6 +15,7 @@ binaries=(
   caskroom/cask/brew-cask
   coreutils
   ctags
+  homebrew/apache/httpd22
   homebrew/dupes/apple-gcc42
   php56
   homebrew/php/wp-cli
