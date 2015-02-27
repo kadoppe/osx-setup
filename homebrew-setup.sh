@@ -66,6 +66,7 @@ apps=(
   intellij-idea
   java
   minecraft
+  omnigraffle-professional5
   onepassword
   origin
   owncloud
