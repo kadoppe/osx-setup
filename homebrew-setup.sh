@@ -33,6 +33,7 @@ binaries=(
   sonar
   the_silver_searcher
   tmux
+  tmux-mem-cpu-load
   typesafe-activator
   z
   zsh
