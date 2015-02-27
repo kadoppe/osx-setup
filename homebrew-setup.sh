@@ -15,8 +15,10 @@ binaries=(
   caskroom/cask/brew-cask
   coreutils
   homebrew/dupes/apple-gcc42
-  htop
+  php56
+  homebrew/php/wp-cli
   homebrew/versions/maven2
+  htop
   imagemagick
   mackup
   mysql
@@ -25,8 +27,8 @@ binaries=(
   rbenv
   reattach-to-user-namespace
   ruby-build
-  sonar
   solr
+  sonar
   the_silver_searcher
   tmux
   typesafe-activator
@@ -61,6 +63,7 @@ apps=(
   java
   minecraft
   onepassword
+  origin
   owncloud
   pg-commander
   sequel-pro
