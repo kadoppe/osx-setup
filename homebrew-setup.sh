@@ -25,6 +25,7 @@ binaries=(
   nodebrew
   postgresql
   rbenv
+  rsense
   reattach-to-user-namespace
   ruby-build
   solr
