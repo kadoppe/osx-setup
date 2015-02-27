@@ -38,6 +38,7 @@ binaries=(
   typesafe-activator
   z
   zsh
+  gibo
 )
 
 echo "Installing binaries..."
