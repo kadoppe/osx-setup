@@ -46,6 +46,7 @@ brew install ${binaries[@]}
 
 apps=(
   alfred
+  anki
   adobe-creative-cloud
   bartender
   bathyscaphe
