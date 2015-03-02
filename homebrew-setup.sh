@@ -17,7 +17,6 @@ binaries=(
   ctags
   homebrew/apache/httpd22
   homebrew/dupes/apple-gcc42
-  php56
   homebrew/php/wp-cli
   homebrew/versions/maven2
   htop
@@ -43,6 +42,8 @@ binaries=(
 
 echo "Installing binaries..."
 brew install ${binaries[@]}
+
+brew install php54 --homebrew-apxs
 
 apps=(
   alfred
