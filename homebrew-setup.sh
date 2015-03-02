@@ -65,6 +65,7 @@ apps=(
   google-chrome
   google-japanese-ime
   gyazo
+  hosts
   iterm2
   intellij-idea
   java
