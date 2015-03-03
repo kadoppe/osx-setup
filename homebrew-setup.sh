@@ -29,6 +29,7 @@ binaries=(
   rsense
   reattach-to-user-namespace
   ruby-build
+  rbenv-gem-rehash
   solr
   sonar
   the_silver_searcher
