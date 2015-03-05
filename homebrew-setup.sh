@@ -77,6 +77,7 @@ apps=(
   origin
   owncloud
   pg-commander
+  rescuetime
   sequel-pro
   skitch
   skype
