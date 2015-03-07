@@ -37,7 +37,6 @@ binaries=(
   tmux
   tmux-mem-cpu-load
   typesafe-activator
-  z
   zsh
   gibo
 )
