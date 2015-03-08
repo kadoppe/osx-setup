@@ -49,7 +49,6 @@ brew install php54 --homebrew-apxs
 apps=(
   alfred
   anki
-  adobe-creative-cloud
   bartender
   bathyscaphe
   caffeine
