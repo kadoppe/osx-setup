@@ -47,6 +47,7 @@ brew install ${binaries[@]}
 brew install php54 --homebrew-apxs
 
 apps=(
+  airmail-beta
   alfred
   anki
   bartender
