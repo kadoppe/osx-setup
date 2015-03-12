@@ -16,6 +16,7 @@ binaries=(
   coreutils
   ctags
   gifsicle
+  heroku-toolbelt
   homebrew/apache/httpd22
   homebrew/dupes/apple-gcc42
   homebrew/php/wp-cli
