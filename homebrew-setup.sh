@@ -52,6 +52,7 @@ apps=(
   anki
   bartender
   bathyscaphe
+  boot2docker
   caffeine
   caskroom/homebrew-versions/macvim-kaoriya
   coteditor
