@@ -47,6 +47,9 @@ brew install ${binaries[@]}
 
 brew install php54 --homebrew-apxs
 
+brew tap caskroom/fonts
+brew tap caskroom/homebrew-versions
+
 apps=(
   airmail-beta
   alfred
@@ -55,7 +58,6 @@ apps=(
   bathyscaphe
   boot2docker
   caffeine
-  caskroom/homebrew-versions/macvim-kaoriya
   coteditor
   cyberduck
   dropbox
@@ -69,9 +71,10 @@ apps=(
   google-japanese-ime
   gyazo
   hosts
-  iterm2
   intellij-idea
+  iterm2
   java
+  macvim-kaoriya
   minecraft
   omnigraffle-professional5
   onepassword
@@ -85,9 +88,9 @@ apps=(
   slack
   soundflower
   steam
+  vagrant
   virtualbox
   vivaldi
-  vagrant
   vlc
   wineskin-winery
   xtrafinder
