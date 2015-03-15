@@ -67,6 +67,7 @@ apps=(
   firefoxdeveloperedition-ja
   flip4mac
   flux
+  font-fontawesome
   google-chrome
   google-japanese-ime
   gyazo
