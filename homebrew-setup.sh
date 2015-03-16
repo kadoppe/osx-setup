@@ -59,6 +59,7 @@ apps=(
   bathyscaphe
   boot2docker
   caffeine
+  cheatsheet
   coteditor
   cyberduck
   dropbox
