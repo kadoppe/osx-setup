@@ -13,6 +13,7 @@ brew upgrade
 
 binaries=(
   caskroom/cask/brew-cask
+  composer
   coreutils
   ctags
   gifsicle
