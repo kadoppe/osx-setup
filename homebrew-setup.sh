@@ -77,6 +77,7 @@ apps=(
   intellij-idea
   iterm2
   java
+  keyboard-cleaner
   kitematic
   macvim-kaoriya
   minecraft
@@ -104,3 +105,4 @@ echo "Installing apps..."
 brew cask install --appdir="/Applications" ${apps[@]}
 
 brew cleanup
+brew cask cleanup
