@@ -101,6 +101,9 @@ apps=(
   xtrafinder
 )
 
+echo "Updating existing binaries"
+brew cask update
+
 echo "Installing apps..."
 brew cask install --appdir="/Applications" ${apps[@]}
 
