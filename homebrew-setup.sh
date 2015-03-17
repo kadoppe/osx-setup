@@ -77,6 +77,7 @@ apps=(
   intellij-idea
   iterm2
   java
+  kitematic
   macvim-kaoriya
   minecraft
   omnigraffle-professional5
