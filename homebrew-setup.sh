@@ -88,6 +88,7 @@ apps=(
   pg-commander
   rescuetime
   sequel-pro
+  sketch
   skitch
   skype
   slack
