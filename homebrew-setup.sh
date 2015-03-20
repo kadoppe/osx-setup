@@ -25,6 +25,7 @@ binaries=(
   htop
   imagemagick
   mackup
+  mongodb
   mysql
   nodebrew
   postgresql
