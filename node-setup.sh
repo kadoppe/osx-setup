@@ -7,6 +7,7 @@ nodebrew use 0.10.36
 
 npm install -g eslint
 npm install -g react-tools
+npm install -g gulp
 npm install -g bower
 npm install -g mean-cli
 
