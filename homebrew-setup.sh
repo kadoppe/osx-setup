@@ -12,6 +12,7 @@ echo "Updating existing binaries"
 brew upgrade
 
 binaries=(
+  ansible
   caskroom/cask/brew-cask
   composer
   coreutils
