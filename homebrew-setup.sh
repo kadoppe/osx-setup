@@ -24,6 +24,7 @@ binaries=(
   homebrew/php/wp-cli
   homebrew/versions/maven2
   htop
+  hub
   imagemagick
   mackup
   mongodb
