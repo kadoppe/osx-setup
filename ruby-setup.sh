@@ -6,5 +6,7 @@ rbenv global 2.2.1
 
 gem install tmuxinator
 gem install homesick
+gem install git-issue
 gem install rubocop
 gem install rails
+
