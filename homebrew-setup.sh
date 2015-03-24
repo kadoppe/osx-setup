@@ -48,7 +48,8 @@ binaries=(
 echo "Installing binaries..."
 brew install ${binaries[@]}
 
-brew install php54 --homebrew-apxs
+brew install php53 --homebrew-apxs
+brew install php54
 
 brew tap caskroom/fonts
 brew tap caskroom/homebrew-versions
