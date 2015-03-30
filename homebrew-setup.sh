@@ -17,6 +17,7 @@ taps=(
   homebrew/dupes
   homebrew/php
   homebrew/versions
+  peco/peco
 )
 brew tap ${taps[@]}
 
@@ -53,6 +54,7 @@ binaries=(
   typesafe-activator
   zsh
   gibo
+  peco
 )
 
 echo "Installing binaries..."
