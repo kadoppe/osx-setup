@@ -11,18 +11,27 @@ brew update
 echo "Updating existing binaries"
 brew upgrade
 
+taps=(
+  caskroom/cask
+  homebrew/apache
+  homebrew/dupes
+  homebrew/php
+  homebrew/versions
+)
+brew tap ${taps[@]}
+
 binaries=(
   ansible
-  caskroom/cask/brew-cask
+  brew-cask
   composer
   coreutils
   ctags
   gifsicle
   heroku-toolbelt
-  homebrew/apache/httpd22
-  homebrew/dupes/apple-gcc42
-  homebrew/php/wp-cli
-  homebrew/versions/maven2
+  httpd22
+  apple-gcc42
+  wp-cli
+  maven2
   htop
   hub
   imagemagick
