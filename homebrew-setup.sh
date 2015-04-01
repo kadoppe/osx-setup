@@ -51,6 +51,7 @@ binaries=(
   the_silver_searcher
   tmux
   tmux-mem-cpu-load
+  tree
   typesafe-activator
   zsh
   gibo
