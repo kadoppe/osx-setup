@@ -39,6 +39,7 @@ binaries=(
   mackup
   mongodb
   mysql
+  nkf
   nodebrew
   postgresql
   rbenv
