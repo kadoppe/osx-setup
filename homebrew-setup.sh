@@ -94,6 +94,7 @@ apps=(
   intellij-idea
   iterm2
   java
+  karabiner
   keyboard-cleaner
   kitematic
   macvim-kaoriya
