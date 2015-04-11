@@ -43,6 +43,7 @@ binaries=(
   nodebrew
   postgresql
   rbenv
+  redis
   rsense
   reattach-to-user-namespace
   ruby-build
