@@ -99,6 +99,7 @@ apps=(
   keyboard-cleaner
   kitematic
   macvim-kaoriya
+  maczip4win
   minecraft
   omnigraffle-professional5
   onepassword
