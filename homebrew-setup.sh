@@ -114,6 +114,7 @@ apps=(
   slack
   soundflower
   steam
+  sqlitebrowser
   vagrant
   virtualbox
   vivaldi
