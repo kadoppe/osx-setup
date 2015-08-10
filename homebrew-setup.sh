@@ -73,6 +73,7 @@ apps=(
   airmail-beta
   alfred
   anki
+  atom
   bartender
   bathyscaphe
   boot2docker
