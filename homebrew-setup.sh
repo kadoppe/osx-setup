@@ -116,6 +116,7 @@ apps=(
   soundflower
   steam
   sqlitebrowser
+  textexpander
   the-unarchiver
   vagrant
   virtualbox
