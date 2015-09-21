@@ -70,9 +70,9 @@ brew tap caskroom/fonts
 brew tap caskroom/homebrew-versions
 
 apps=(
-  airmail-beta
   alfred
   anki
+  appcleaner
   atom
   bartender
   bathyscaphe
