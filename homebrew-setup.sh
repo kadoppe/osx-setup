@@ -36,6 +36,7 @@ binaries=(
   htop
   hub
   imagemagick
+  jq
   mackup
   mongodb
   mysql
