@@ -103,7 +103,6 @@ apps=(
   maczip4win
   minecraft
   omnigraffle-professional5
-  onepassword
   origin
   owncloud
   pg-commander
