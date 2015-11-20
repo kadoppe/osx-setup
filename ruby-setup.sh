@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
-rbenv install 2.2.2
-rbenv global 2.2.2
+rbenv install 2.2.3
+rbenv global 2.2.3
 
 gem install tmuxinator
 gem install homesick
