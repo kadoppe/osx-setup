@@ -27,6 +27,7 @@ binaries=(
   composer
   coreutils
   ctags
+  elixir
   gifsicle
   heroku-toolbelt
   httpd22
