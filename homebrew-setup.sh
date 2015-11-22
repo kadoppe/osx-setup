@@ -103,6 +103,7 @@ apps=(
   macvim-kaoriya
   maczip4win
   minecraft
+  mobile-mouse-server
   omnigraffle-professional5
   origin
   owncloud
