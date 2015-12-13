@@ -36,6 +36,7 @@ binaries=(
   maven2
   htop
   hub
+  hugo
   imagemagick
   jq
   mackup
