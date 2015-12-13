@@ -105,6 +105,7 @@ apps=(
   minecraft
   mobile-mouse-server
   omnigraffle-professional5
+  onyx
   origin
   owncloud
   pg-commander
