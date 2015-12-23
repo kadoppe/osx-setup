@@ -53,6 +53,7 @@ binaries=(
   rbenv-gem-rehash
   solr
   sonar
+  ssh-copy-id
   the_silver_searcher
   tmux
   tmux-mem-cpu-load
