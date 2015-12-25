@@ -83,6 +83,7 @@ apps=(
   caffeine
   cheatsheet
   coteditor
+  clipy
   cyberduck
   dropbox
   eclipse-java
