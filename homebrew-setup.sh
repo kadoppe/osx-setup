@@ -81,7 +81,6 @@ apps=(
   bathyscaphe
   boot2docker
   caffeine
-  cheatsheet
   coteditor
   clipy
   cyberduck
@@ -93,7 +92,6 @@ apps=(
   flip4mac
   flux
   font-fontawesome
-  fritzing
   google-chrome
   google-japanese-ime
   gyazo
@@ -111,9 +109,7 @@ apps=(
   omnigraffle-professional5
   onyx
   origin
-  owncloud
   pg-commander
-  rescuetime
   sequel-pro
   sketch
   skitch
@@ -126,10 +122,7 @@ apps=(
   the-unarchiver
   vagrant
   virtualbox
-  vivaldi
   vlc
-  wineskin-winery
-  xtrafinder
 )
 
 echo "Updating existing binaries"
