@@ -25,7 +25,6 @@ brew tap ${taps[@]}
 
 binaries=(
   ansible
-  brew-cask
   composer
   coreutils
   ctags
