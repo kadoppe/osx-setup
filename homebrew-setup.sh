@@ -52,7 +52,6 @@ binaries=(
   rsense
   reattach-to-user-namespace
   ruby-build
-  rbenv-gem-rehash
   solr
   sonar
   ssh-copy-id
