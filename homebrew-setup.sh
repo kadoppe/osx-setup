@@ -72,6 +72,7 @@ apps=(
   anki
   appcleaner
   atom
+  audacity
   bartender
   bathyscaphe
   boot2docker
