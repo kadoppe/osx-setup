@@ -70,6 +70,7 @@ brew install ${binaries[@]}
 apps=(
   alfred
   anki
+  android-studio
   appcleaner
   atom
   audacity
