@@ -35,7 +35,7 @@ binaries=(
   apple-gcc42
   wp-cli
   maven2
-  htop
+  htop-osx
   hub
   hugo
   imagemagick
