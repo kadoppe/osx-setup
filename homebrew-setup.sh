@@ -81,6 +81,7 @@ apps=(
   coteditor
   clipy
   cyberduck
+  dungeon-crawl-stone-soup-tiles
   dropbox
   eclipse-java
   evernote
