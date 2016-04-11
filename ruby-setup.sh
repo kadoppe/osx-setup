@@ -9,4 +9,5 @@ gem install git-issue
 gem install rubocop
 gem install rails
 gem install prmd
+gem install pry
 
