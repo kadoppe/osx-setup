@@ -11,17 +11,14 @@ brew update
 echo "Updating existing binaries"
 brew upgrade
 
-taps=(
-  caskroom/cask
-  caskroom/fonts
-  caskroom/homebrew-versions
-  homebrew/apache
-  homebrew/dupes
-  homebrew/php
-  homebrew/versions
-  peco/peco
-)
-brew tap ${taps[@]}
+brew tap caskroom/cask
+brew tap caskroom/fonts
+brew tap caskroom/versions
+brew tap homebrew/apache
+brew tap homebrew/dupes
+brew tap homebrew/php
+brew tap homebrew/versions
+brew tap peco/peco
 
 binaries=(
   ansible
