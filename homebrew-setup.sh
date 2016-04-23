@@ -114,6 +114,7 @@ apps=(
   slack
   soundflower
   steam
+  sts
   sqlitebrowser
   textexpander
   the-unarchiver
