@@ -27,6 +27,7 @@ binaries=(
   ctags
   elixir
   gifsicle
+  gradle
   heroku-toolbelt
   httpd22
   apple-gcc42
