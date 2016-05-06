@@ -44,6 +44,7 @@ binaries=(
   nkf
   nodebrew
   postgresql
+  pyenv
   rbenv
   redis
   rsense
