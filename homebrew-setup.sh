@@ -45,6 +45,7 @@ binaries=(
   nodebrew
   postgresql
   pyenv
+  pyenv-virtualenv
   rbenv
   redis
   rsense
