@@ -100,6 +100,7 @@ apps=(
   java
   karabiner
   keyboard-cleaner
+  kindle
   kitematic
   macvim-kaoriya
   maczip4win
