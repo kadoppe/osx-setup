@@ -43,6 +43,7 @@ binaries=(
   mysql
   nkf
   nodebrew
+  oath-toolkit
   postgresql
   pyenv
   pyenv-virtualenv
