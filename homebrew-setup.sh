@@ -41,6 +41,7 @@ binaries=(
   mackup
   mongodb
   mysql
+  nginx
   nkf
   nodebrew
   oath-toolkit
@@ -110,6 +111,7 @@ apps=(
   omnigraffle-professional5
   onyx
   origin
+  owncloud
   pg-commander
   sequel-pro
   sketch
