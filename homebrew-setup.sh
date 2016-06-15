@@ -55,6 +55,7 @@ binaries=(
   ruby-build
   solr
   sonar
+  sonar-runner
   ssh-copy-id
   the_silver_searcher
   tmux
