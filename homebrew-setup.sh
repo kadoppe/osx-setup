@@ -108,11 +108,13 @@ apps=(
   maczip4win
   minecraft
   mobile-mouse-server
+  mysqlworkbench
   omnigraffle-professional5
   onyx
   origin
   owncloud
   pg-commander
+  phpstorm
   sequel-pro
   sketch
   skitch
