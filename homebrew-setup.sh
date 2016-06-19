@@ -32,7 +32,6 @@ binaries=(
   httpd22
   apple-gcc42
   wp-cli
-  maven2
   htop-osx
   hub
   hugo
