@@ -79,7 +79,6 @@ apps=(
   audacity
   bartender
   bathyscaphe
-  boot2docker
   caffeine
   coteditor
   clipy
