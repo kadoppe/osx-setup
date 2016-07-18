@@ -22,6 +22,7 @@ brew tap peco/peco
 
 binaries=(
   ansible
+  awscli
   composer
   coreutils
   ctags
