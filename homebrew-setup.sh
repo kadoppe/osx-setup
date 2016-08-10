@@ -81,12 +81,10 @@ apps=(
   bathyscaphe
   caffeine
   coteditor
-  clipy
   cyberduck
   daisydisk
   dungeon-crawl-stone-soup-tiles
   dropbox
-  eclipse-java
   evernote
   firefox-ja
   firefoxdeveloperedition-ja
