@@ -26,7 +26,6 @@ binaries=(
   composer
   coreutils
   ctags
-  docker-compose
   elixir
   gifsicle
   gradle
