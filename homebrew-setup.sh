@@ -113,6 +113,7 @@ apps=(
   owncloud
   pg-commander
   phpstorm
+  seil
   sequel-pro
   sketch
   skitch
