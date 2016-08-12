@@ -109,7 +109,6 @@ apps=(
   mysqlworkbench
   omnigraffle-professional5
   onyx
-  origin
   owncloud
   pg-commander
   phpstorm
