@@ -122,7 +122,6 @@ apps=(
   steam
   sts
   sqlitebrowser
-  textexpander
   the-unarchiver
   vagrant
   virtualbox
