@@ -44,7 +44,6 @@ binaries=(
   nkf
   nodebrew
   oath-toolkit
-  otto
   postgresql
   pyenv
   pyenv-virtualenv
