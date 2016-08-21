@@ -30,7 +30,6 @@ binaries=(
   gifsicle
   gradle
   heroku-toolbelt
-  httpd22
   apple-gcc42
   wp-cli
   htop-osx
