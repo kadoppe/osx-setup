@@ -56,6 +56,7 @@ binaries=(
   sonar
   sonar-runner
   ssh-copy-id
+  terraform
   the_silver_searcher
   tmux
   tmux-mem-cpu-load
