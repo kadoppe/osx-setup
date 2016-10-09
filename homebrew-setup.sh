@@ -110,6 +110,7 @@ apps=(
   omnigraffle-professional5
   onyx
   owncloud
+  path-finder
   pg-commander
   phpstorm
   seil
