@@ -122,6 +122,7 @@ apps=(
   soundflower
   steam
   sts
+  spotify
   sqlitebrowser
   the-unarchiver
   vagrant
