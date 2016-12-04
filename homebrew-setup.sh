@@ -18,14 +18,17 @@ brew tap homebrew/apache
 brew tap homebrew/dupes
 brew tap homebrew/php
 brew tap homebrew/versions
+brew tap osx-cross/avr
 brew tap peco/peco
 
 binaries=(
   ansible
+  avr-libc
   awscli
   composer
   coreutils
   ctags
+  dfu-programmer
   elixir
   gifsicle
   gradle
@@ -56,6 +59,7 @@ binaries=(
   sonar
   sonar-runner
   ssh-copy-id
+  teensy_loader_cli
   terraform
   the_silver_searcher
   tmux
