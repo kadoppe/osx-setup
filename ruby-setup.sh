@@ -3,6 +3,7 @@
 rbenv install 2.4.0
 rbenv global 2.4.0
 
+gem install bundler
 gem install tmuxinator
 gem install homesick
 gem install git-issue
