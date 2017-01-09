@@ -122,7 +122,6 @@ apps=(
   sketch
   skitch
   skype
-  slack
   soundflower
   steam
   sts
