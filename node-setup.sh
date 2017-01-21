@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
-nodebrew install-binary 4.1.0
-nodebrew use 4.1.0
+nodebrew install-binary 7.4.0
+nodebrew use 7.4.0
 
 npm install -g eslint
 npm install -g react-tools
