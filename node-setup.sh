@@ -9,4 +9,4 @@ npm install -g gulp
 npm install -g bower
 npm install -g express-generator
 npm install -g webpack
-
+npm install -g react-native-cli
