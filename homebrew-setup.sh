@@ -66,6 +66,7 @@ binaries=(
   tmux-mem-cpu-load
   tree
   typesafe-activator
+  watchman
   zsh
   gibo
   peco
