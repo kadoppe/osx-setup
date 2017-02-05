@@ -96,6 +96,7 @@ apps=(
   flip4mac
   flux
   font-fontawesome
+  gitter
   google-chrome
   google-japanese-ime
   gyazo
