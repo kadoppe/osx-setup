@@ -92,6 +92,7 @@ apps=(
   firefox-ja
   firefoxdeveloperedition-ja
   flip4mac
+  fman
   flux
   font-fontawesome
   gitter
