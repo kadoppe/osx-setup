@@ -118,6 +118,7 @@ apps=(
   path-finder
   pg-commander
   phpstorm
+  pomodone
   seil
   sequel-pro
   sketch
