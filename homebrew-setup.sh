@@ -50,12 +50,10 @@ binaries=(
   pyenv-virtualenv
   rbenv
   redis
-  rsense
   reattach-to-user-namespace
   ruby-build
   solr
   sonar
-  sonar-runner
   ssh-copy-id
   teensy_loader_cli
   terraform
@@ -74,27 +72,25 @@ echo "Installing binaries..."
 brew install ${binaries[@]}
 
 apps=(
+  1password
   alfred
-  anki
   android-studio
   appcleaner
   atom
-  audacity
   bartender
   bathyscaphe
   caffeine
   coteditor
   cyberduck
   daisydisk
-  dungeon-crawl-stone-soup-tiles
   dropbox
   evernote
-  firefox-ja
-  firefoxdeveloperedition-ja
+  firefox
   flip4mac
   fman
   flux
   font-fontawesome
+  font-ricty-diminished
   gitter
   google-chrome
   google-japanese-ime
@@ -103,16 +99,14 @@ apps=(
   intellij-idea
   iterm2
   java
-  karabiner
   keyboard-cleaner
   kindle
   kitematic
-  macvim-kaoriya
   maczip4win
   minecraft
   mobile-mouse-server
+  mongodb-compass
   mysqlworkbench
-  omnigraffle-professional5
   onyx
   owncloud
   path-finder
@@ -127,11 +121,14 @@ apps=(
   soundflower
   steam
   sts
+  studio-3t
   spotify
   sqlitebrowser
   the-unarchiver
+  tower
   vagrant
   virtualbox
+  visual-studio-code
   vlc
 )
 
