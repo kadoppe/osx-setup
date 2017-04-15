@@ -97,6 +97,7 @@ apps=(
   gyazo
   hosts
   intellij-idea
+  istat-menus
   iterm2
   java
   keyboard-cleaner
