@@ -63,6 +63,7 @@ binaries=(
   tree
   typesafe-activator
   watchman
+  wget
   zsh
   gibo
   peco
