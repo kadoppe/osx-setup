@@ -85,7 +85,6 @@ apps=(
   cyberduck
   daisydisk
   dropbox
-  evernote
   firefox
   flip4mac
   fman
