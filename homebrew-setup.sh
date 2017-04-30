@@ -29,6 +29,7 @@ binaries=(
   ctags
   dfu-programmer
   elixir
+  fish
   gifsicle
   gradle
   heroku-toolbelt
