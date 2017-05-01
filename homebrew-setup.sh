@@ -135,6 +135,8 @@ apps=(
   vlc
 )
 
+brew install ricty --with-powerline
+
 echo "Updating existing binaries"
 brew cask update
 
