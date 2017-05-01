@@ -19,6 +19,7 @@ brew tap homebrew/dupes
 brew tap homebrew/php
 brew tap homebrew/versions
 brew tap osx-cross/avr
+brew tap sanemat/font
 
 binaries=(
   ansible
