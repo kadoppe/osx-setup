@@ -32,6 +32,7 @@ binaries=(
   elixir
   fish
   gifsicle
+  ghq
   gradle
   heroku-toolbelt
   wp-cli
