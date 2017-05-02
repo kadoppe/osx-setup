@@ -20,11 +20,13 @@ brew tap homebrew/php
 brew tap homebrew/versions
 brew tap osx-cross/avr
 brew tap sanemat/font
+brew tap cloudfoundry/tap
 
 binaries=(
   ansible
   avr-libc
   awscli
+  cf-cli
   composer
   coreutils
   ctags
