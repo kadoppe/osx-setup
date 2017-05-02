@@ -121,6 +121,7 @@ apps=(
   pg-commander
   phpstorm
   pomodone
+  rescuetime
   seil
   sequel-pro
   sketch
