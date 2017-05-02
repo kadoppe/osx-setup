@@ -134,6 +134,7 @@ apps=(
   spotify
   sqlitebrowser
   the-unarchiver
+  toggldesktop
   tower
   vagrant
   virtualbox
