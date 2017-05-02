@@ -33,6 +33,7 @@ binaries=(
   fish
   gifsicle
   ghq
+  gpg
   gradle
   heroku-toolbelt
   wp-cli
@@ -70,6 +71,7 @@ binaries=(
   zsh
   gibo
   peco
+  yarn
 )
 
 echo "Installing binaries..."
