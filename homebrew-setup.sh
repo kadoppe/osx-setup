@@ -140,6 +140,7 @@ apps=(
   virtualbox
   visual-studio-code
   vlc
+  webstorm
 )
 
 brew install ricty --with-powerline
