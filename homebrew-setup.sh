@@ -88,6 +88,7 @@ apps=(
   bartender
   bathyscaphe
   caffeine
+  caprine
   coteditor
   cyberduck
   daisydisk
