@@ -93,6 +93,7 @@ apps=(
   cyberduck
   daisydisk
   dropbox
+  duet
   firefox
   flip4mac
   fman
@@ -136,6 +137,7 @@ apps=(
   sqlitebrowser
   the-unarchiver
   toggldesktop
+  totalspaces
   tower
   vagrant
   virtualbox
