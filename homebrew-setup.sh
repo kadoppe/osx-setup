@@ -110,6 +110,7 @@ apps=(
   iterm2
   java
   keyboard-cleaner
+  karabiner-elements
   kindle
   kitematic
   maczip4win
