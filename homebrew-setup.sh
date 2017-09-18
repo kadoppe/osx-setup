@@ -50,12 +50,8 @@ binaries=(
   nodebrew
   oath-toolkit
   postgresql
-  pyenv
-  pyenv-virtualenv
-  rbenv
   redis
   reattach-to-user-namespace
-  ruby-build
   solr
   sonar
   ssh-copy-id
