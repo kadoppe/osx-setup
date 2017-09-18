@@ -1,6 +1,7 @@
-#!/usr/bin/env bash
-pyenv install 2.7.11
-pyenv global 2.7.11
+#!/usr/bin/env fish
 
-pip install sphinx==1.2.3
-pip install sphinxcontrib-phpdomain
+asdf plugin-add python https://github.com/tuvistavie/asdf-python.git
+
+asdf install python 2.7.10
+asdf global python 2.7.10
+asdf reshim python 2.7.10

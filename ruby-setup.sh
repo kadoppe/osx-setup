@@ -1,14 +1,11 @@
-#!/usr/bin/env bash
+#!/usr/bin/env fish
 
-rbenv install 2.4.1
-rbenv global 2.4.
+asdf install ruby 2.4.2
+asdf global ruby 2.4.2
 
-gem install bundler
-gem install tmuxinator
 gem install homesick
-gem install git-issue
-gem install rubocop
-gem install rails
-gem install prmd
-gem install pry
+gem update homesick
+
+gem install tmuxinator
+gem update tmuxinator
 
