@@ -13,9 +13,7 @@ brew upgrade
 
 brew tap caskroom/cask
 brew tap caskroom/fonts
-brew tap caskroom/versions
 brew tap homebrew/apache
-brew tap homebrew/dupes
 brew tap homebrew/php
 brew tap homebrew/versions
 brew tap osx-cross/avr
@@ -148,9 +146,6 @@ apps=(
 )
 
 brew install ricty --with-powerline
-
-echo "Updating existing binaries"
-brew cask update
 
 echo "Installing apps..."
 brew cask install --appdir="/Applications" ${apps[@]}
