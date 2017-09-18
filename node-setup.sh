@@ -1,4 +1,7 @@
-#!/usr/bin/env bash
+#!/usr/bin/env fish
 
-nodebrew install-binary 7.6.0
-nodebrew use 7.6.0
+asdf install nodejs 8.4.0
+asdf global nodejs 8.4.0
+
+npm install -g npm@3.8.8
+asdf reshim nodejs
