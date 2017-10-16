@@ -81,6 +81,7 @@ apps=(
   atom
   bartender
   bathyscaphe
+  brave
   caffeine
   caprine
   coteditor
