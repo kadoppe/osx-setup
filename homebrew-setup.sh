@@ -97,7 +97,6 @@ apps=(
   font-ricty-diminished
   gitter
   google-chrome
-  google-japanese-ime
   gyazo
   hosts
   intellij-idea
