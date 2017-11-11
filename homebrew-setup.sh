@@ -119,6 +119,7 @@ apps=(
   phpstorm
   pomodone
   rescuetime
+  station
   seil
   sequel-pro
   sketch
