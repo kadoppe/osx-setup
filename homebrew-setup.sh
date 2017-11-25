@@ -120,14 +120,11 @@ apps=(
   pomodone
   rescuetime
   station
-  seil
   sequel-pro
   sketch
   skitch
   skype
   soundflower
-  steam
-  sts
   studio-3t
   spotify
   sqlitebrowser
