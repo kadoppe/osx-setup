@@ -87,6 +87,7 @@ apps=(
   coteditor
   cyberduck
   daisydisk
+  docker
   dropbox
   duet
   firefox
