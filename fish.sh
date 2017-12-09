@@ -1,5 +1,12 @@
 #!/usr/bin/env fish
 
+sudo -v
+
+if not grep -q '/usr/local/bin/fish' /etc/shells
+  echo "/usr/local/bin/fish" | sudo tee -a /etc/shells
+end
+chsh -s /usr/local/bin/fish
+
 curl -Lo ~/.config/fish/functions/fisher.fish --create-dirs git.io/fisher
 
 echo "Install plugins..."
