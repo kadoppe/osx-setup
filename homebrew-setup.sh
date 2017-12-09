@@ -143,7 +143,8 @@ brew cask install --appdir="/Applications" ${apps[@]}
 
 echo "Installing store apps..."
 storeapps=(
-  409737246 #DoublePane
+  409737246 # DoublePane
+  585829637 # Todoist
 )
 
 mas upgrade
