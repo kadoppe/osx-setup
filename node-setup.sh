@@ -1,7 +1,5 @@
 #!/usr/bin/env fish
+curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.33.6/install.sh | bash
 
-asdf install nodejs 8.8.1
-asdf global nodejs 8.8.1
-
+nvm install v8.8.1
 npm install -g npm@3.8.8
-asdf reshim nodejs
