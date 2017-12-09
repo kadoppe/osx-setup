@@ -40,6 +40,7 @@ binaries=(
   hugo
   imagemagick
   jq
+  mas
   mackup
   mongodb
   mysql
@@ -139,6 +140,13 @@ brew install ricty --with-powerline
 
 echo "Installing apps..."
 brew cask install --appdir="/Applications" ${apps[@]}
+
+echo "Installing store apps..."
+storeapps=(
+)
+
+#mas install ${storeapps[@]}
+#mas upgrade
 
 brew cleanup
 brew cask cleanup
