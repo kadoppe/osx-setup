@@ -144,6 +144,8 @@ brew cask install --appdir="/Applications" ${apps[@]}
 echo "Installing store apps..."
 storeapps=(
   409737246 # DoublePane
+  485812721 # TweetDeck by Twitter
+  539883307 # LINE
   585829637 # Todoist
 )
 
