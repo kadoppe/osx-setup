@@ -13,16 +13,14 @@ brew upgrade
 
 brew tap caskroom/cask
 brew tap caskroom/fonts
-brew tap homebrew/apache
 brew tap homebrew/php
-brew tap homebrew/versions
-brew tap osx-cross/avr
 brew tap sanemat/font
 brew tap cloudfoundry/tap
 
+brew cask install java
+
 binaries=(
   ansible
-  avr-libc
   awscli
   cf-cli
   composer
@@ -109,7 +107,6 @@ apps=(
   kitematic
   maczip4win
   minecraft
-  mobile-mouse-server
   mongodb-compass
   mysqlworkbench
   onyx
@@ -127,9 +124,7 @@ apps=(
   soundflower
   studio-3t
   spotify
-  sqlitebrowser
   the-unarchiver
-  toggldesktop
   totalspaces
   tower
   vagrant
