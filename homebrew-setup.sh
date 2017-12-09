@@ -75,6 +75,7 @@ apps=(
   1password
   alfred
   android-studio
+  avira-antivirus
   appcleaner
   atom
   bartender
