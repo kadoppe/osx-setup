@@ -143,10 +143,11 @@ brew cask install --appdir="/Applications" ${apps[@]}
 
 echo "Installing store apps..."
 storeapps=(
+  409737246 #DoublePane
 )
 
-#mas install ${storeapps[@]}
-#mas upgrade
+mas upgrade
+mas install ${storeapps[@]}
 
 brew cleanup
 brew cask cleanup
