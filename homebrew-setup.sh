@@ -148,6 +148,7 @@ storeapps=(
   485812721 # TweetDeck by Twitter
   539883307 # LINE
   585829637 # Todoist
+  803453959 # Slack
 )
 
 mas upgrade
