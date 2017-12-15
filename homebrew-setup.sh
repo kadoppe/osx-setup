@@ -149,6 +149,7 @@ storeapps=(
   539883307 # LINE
   585829637 # Todoist
   803453959 # Slack
+  1289197285 # MindNode 5
 )
 
 mas upgrade
