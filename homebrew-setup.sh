@@ -149,6 +149,7 @@ storeapps=(
   539883307 # LINE
   585829637 # Todoist
   803453959 # Slack
+  1091189122 # Bear
   1289197285 # MindNode 5
 )
 
