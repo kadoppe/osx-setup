@@ -16,6 +16,7 @@ fisher install 0rax/fish-bd
 fisher install oh-my-fish/plugin-peco
 fisher install yoshiori/fish-peco_select_ghq_repository
 fisher install nvm
+fisher install pyenv
 fisher spentacular/asdf-fish
 
 echo "Update all plugin..."

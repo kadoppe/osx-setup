@@ -66,6 +66,7 @@ binaries=(
   zsh
   gibo
   peco
+  pyenv
   yarn
 )
 
