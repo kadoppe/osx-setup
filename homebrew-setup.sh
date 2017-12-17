@@ -67,6 +67,7 @@ binaries=(
   gibo
   peco
   pyenv
+  pyenv-virtualenv
   yarn
 )
 
