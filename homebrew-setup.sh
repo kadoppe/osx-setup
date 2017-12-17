@@ -150,6 +150,7 @@ storeapps=(
   585829637 # Todoist
   803453959 # Slack
   1091189122 # Bear
+  1176895641 # Spark - Love your email again
   1289197285 # MindNode 5
 )
 
