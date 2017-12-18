@@ -42,7 +42,7 @@ binaries=(
   jq
   mas
   mackup
-  mongodb
+  mongodb@3.4
   mysql
   nginx
   nkf
