@@ -26,3 +26,6 @@ defaults write com.apple.dock wvous-tl-modifier -int 0
 # screen
 defaults write com.apple.screensaver askForPassword -int 1
 defaults write com.apple.screensaver askForPasswordDelay -int 0
+
+# screenshot
+defaults write com.apple.screencapture disable-shadow -boolean true
