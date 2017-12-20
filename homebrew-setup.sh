@@ -23,6 +23,7 @@ binaries=(
   ansible
   awscli
   cf-cli
+  chromedriver
   composer
   coreutils
   ctags
