@@ -34,6 +34,7 @@ binaries=(
   ghq
   gpg
   gradle
+  graphicsmagick
   heroku-toolbelt
   wp-cli
   htop-osx
