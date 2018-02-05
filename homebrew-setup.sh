@@ -79,6 +79,7 @@ brew install ${binaries[@]}
 apps=(
   1password
   alfred
+  android-platform-tools
   android-studio
   avira-antivirus
   appcleaner
