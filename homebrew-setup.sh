@@ -135,6 +135,7 @@ apps=(
   the-unarchiver
   totalspaces
   tower
+  thunderbird
   vagrant
   virtualbox
   visual-studio-code
