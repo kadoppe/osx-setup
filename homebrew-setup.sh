@@ -46,6 +46,7 @@ binaries=(
   mackup
   mongodb@3.4
   mysql
+  neovim
   nginx
   nkf
   nodebrew
