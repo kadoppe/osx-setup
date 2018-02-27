@@ -120,6 +120,7 @@ apps=(
   mysqlworkbench
   onyx
   owncloud
+  parallels
   path-finder
   pg-commander
   phpstorm
