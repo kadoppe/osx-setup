@@ -109,6 +109,7 @@ apps=(
   intellij-idea
   istat-menus
   iterm2
+  jasper
   java
   keyboard-cleaner
   karabiner-elements
