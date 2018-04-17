@@ -80,6 +80,7 @@ brew install ${binaries[@]}
 apps=(
   1password
   alfred
+  android-file-transfer
   android-platform-tools
   android-studio
   avira-antivirus
