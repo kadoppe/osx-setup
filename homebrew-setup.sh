@@ -95,6 +95,7 @@ apps=(
   coteditor
   cyberduck
   daisydisk
+  dash
   docker
   dropbox
   duet
