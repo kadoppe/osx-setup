@@ -27,6 +27,7 @@ binaries=(
   composer
   coreutils
   ctags
+  direnv
   dfu-programmer
   elixir
   fish
