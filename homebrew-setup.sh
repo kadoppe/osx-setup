@@ -13,7 +13,6 @@ brew upgrade
 
 brew tap caskroom/cask
 brew tap caskroom/fonts
-brew tap homebrew/php
 brew tap sanemat/font
 brew tap cloudfoundry/tap
 
