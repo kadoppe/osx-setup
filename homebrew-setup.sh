@@ -117,6 +117,7 @@ apps=(
   karabiner-elements
   kindle
   kitematic
+  licecap
   maczip4win
   minecraft
   mongodb-compass
