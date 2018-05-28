@@ -130,6 +130,7 @@ apps=(
   pg-commander
   phpstorm
   pomodone
+  postman
   rescuetime
   station
   sequel-pro
