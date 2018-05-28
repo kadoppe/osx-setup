@@ -105,6 +105,7 @@ apps=(
   font-fontawesome
   font-ricty-diminished
   gitter
+  gitup
   google-chrome
   google-japanese-ime
   gyazo
