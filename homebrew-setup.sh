@@ -13,6 +13,7 @@ brew upgrade
 
 brew tap caskroom/cask
 brew tap caskroom/fonts
+brew tap caskroom/versions
 brew tap sanemat/font
 brew tap cloudfoundry/tap
 
@@ -95,7 +96,7 @@ apps=(
   cyberduck
   daisydisk
   dash
-  docker
+  docker-edge
   dropbox
   duet
   firefox
