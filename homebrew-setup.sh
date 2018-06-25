@@ -45,6 +45,7 @@ binaries=(
   jq
   mas
   mackup
+  mongo
   mongodb@3.4
   mysql
   neovim
