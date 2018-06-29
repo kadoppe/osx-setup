@@ -62,6 +62,7 @@ binaries=(
   teensy_loader_cli
   terraform
   the_silver_searcher
+  tig
   tmux
   tmux-mem-cpu-load
   tree
