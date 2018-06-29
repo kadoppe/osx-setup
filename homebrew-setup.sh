@@ -144,6 +144,7 @@ apps=(
   studio-3t
   spotify
   the-unarchiver
+  toggl
   totalspaces
   tower
   thunderbird
