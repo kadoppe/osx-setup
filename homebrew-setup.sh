@@ -101,6 +101,7 @@ apps=(
   docker-edge
   dropbox
   duet
+  fantastical
   firefox
   flip4mac
   fman
