@@ -131,6 +131,7 @@ apps=(
   minecraft
   mongodb-compass
   mysqlworkbench
+  notion
   onyx
   owncloud
   parallels
