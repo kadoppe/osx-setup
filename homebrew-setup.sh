@@ -37,7 +37,6 @@ binaries=(
   gradle
   graphicsmagick
   heroku-toolbelt
-  wp-cli
   htop-osx
   hub
   hugo
@@ -45,19 +44,10 @@ binaries=(
   jq
   mas
   mackup
-  mongo
-  mongodb@3.4
-  mysql
   neovim
-  nginx
   nkf
-  nodebrew
   oath-toolkit
-  postgresql
-  redis
   reattach-to-user-namespace
-  solr
-  sonar
   ssh-copy-id
   teensy_loader_cli
   terraform
@@ -85,13 +75,7 @@ apps=(
   alfred
   android-file-transfer
   android-platform-tools
-  android-studio
-  avira-antivirus
   appcleaner
-  atom
-  bartender
-  bathyscaphe
-  brave
   caffeine
   caprine
   coteditor
@@ -112,7 +96,6 @@ apps=(
   font-roboto
   font-source-han-sans
   gitter
-  gitup
   google-chrome
   google-japanese-ime
   gyazo
@@ -129,19 +112,10 @@ apps=(
   licecap
   maczip4win
   minecraft
-  mongodb-compass
-  mysqlworkbench
   notion
   onyx
-  owncloud
   parallels
-  path-finder
-  pg-commander
-  phpstorm
-  pomodone
   postman
-  rescuetime
-  station
   sequel-pro
   sketch
   skitch
@@ -150,14 +124,9 @@ apps=(
   studio-3t
   spotify
   the-unarchiver
-  toggl
-  totalspaces
   tower
-  thunderbird
   vagrant
   virtualbox
-  visual-studio-code
-  vlc
   webstorm
 )
 
@@ -170,7 +139,6 @@ echo "Installing store apps..."
 storeapps=(
   1091189122 # Bear
   1176895641 # Spark - Love your email again
-  1289197285 # MindNode 5
   409183694 # Keynote
   441258766 # Magnet
   485812721 # TweetDeck by Twitter
