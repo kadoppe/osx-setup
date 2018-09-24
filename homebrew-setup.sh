@@ -93,7 +93,6 @@ apps=(
   flux
   font-fontawesome
   font-noto-sans-cjk-jp
-  font-ricty-diminished
   font-roboto
   font-source-han-sans
   gitter
