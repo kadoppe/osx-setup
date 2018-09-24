@@ -113,7 +113,7 @@ apps=(
   maczip4win
   minecraft
   notion
-  onyx
+  # onyx
   parallels
   postman
   sequel-pro
