@@ -129,6 +129,8 @@ apps=(
 )
 
 brew install ricty --with-powerline
+cp -f /usr/local/opt/ricty/share/fonts/Ricty*.ttf ~/Library/Fonts/
+fc-cache -vf
 
 echo "Installing apps..."
 brew cask install --appdir="/Applications" ${apps[@]}
