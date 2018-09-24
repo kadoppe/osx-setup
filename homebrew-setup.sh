@@ -120,7 +120,6 @@ apps=(
   sketch
   skitch
   skype
-  soundflower
   studio-3t
   spotify
   the-unarchiver
