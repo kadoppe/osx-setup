@@ -124,6 +124,7 @@ apps=(
   sketch
   skitch
   skype
+  steam
   studio-3t
   spotify
   the-unarchiver
