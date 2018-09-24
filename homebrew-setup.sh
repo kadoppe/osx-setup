@@ -12,6 +12,7 @@ echo "Updating existing binaries"
 brew upgrade
 
 brew tap caskroom/cask
+brew tap homebrew/cask
 brew tap caskroom/fonts
 brew tap caskroom/versions
 brew tap sanemat/font
