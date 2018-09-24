@@ -125,7 +125,7 @@ apps=(
   the-unarchiver
   tower
   vagrant
-  virtualbox
+  #virtualbox
   webstorm
 )
 
