@@ -99,7 +99,6 @@ apps=(
   google-chrome
   google-japanese-ime
   gyazo
-  hosts
   intellij-idea
   istat-menus
   iterm2
