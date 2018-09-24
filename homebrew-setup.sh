@@ -24,7 +24,6 @@ binaries=(
   ansible
   awscli
   cf-cli
-  chromedriver
   composer
   coreutils
   ctags
@@ -79,6 +78,7 @@ apps=(
   appcleaner
   caffeine
   caprine
+  chromedriver
   coteditor
   cyberduck
   daisydisk
