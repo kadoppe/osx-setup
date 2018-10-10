@@ -10,14 +10,14 @@ chsh -s /usr/local/bin/fish
 curl -Lo ~/.config/fish/functions/fisher.fish --create-dirs git.io/fisher
 
 echo "Install plugins..."
-fisher install omf/theme-bobthefish
-fisher install z
-fisher install 0rax/fish-bd
-fisher install oh-my-fish/plugin-peco
-fisher install yoshiori/fish-peco_select_ghq_repository
-fisher install nvm
-fisher install pyenv
-fisher spentacular/asdf-fish
+fisher add oh-my-fish/theme-bobthefish
+fisher add jethrokuan/z
+fisher add 0rax/fish-bd
+fisher add oh-my-fish/plugin-peco
+fisher add yoshiori/fish-peco_select_ghq_repository
+fisher add spentacular/asdf-fish
+fisher add daenney/pyenv
 
 echo "Update all plugin..."
-fisher up
+fisher self-update
+fisher

@@ -123,6 +123,7 @@ apps=(
   spotify
   the-unarchiver
   tower
+  trailer
   vagrant
   #virtualbox
   webstorm
@@ -139,7 +140,6 @@ echo "Installing store apps..."
 storeapps=(
   1091189122 # Bear
   1176895641 # Spark - Love your email again
-  409183694 # Keynote
   441258766 # Magnet
   485812721 # TweetDeck by Twitter
   539883307 # LINE
@@ -151,4 +151,3 @@ mas upgrade
 mas install ${storeapps[@]}
 
 brew cleanup
-brew cask cleanup
