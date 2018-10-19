@@ -44,6 +44,7 @@ binaries=(
   jq
   mas
   mackup
+  mongodb
   neovim
   nkf
   oath-toolkit
