@@ -98,6 +98,7 @@ apps=(
   font-source-han-sans
   gitter
   google-chrome
+  google-cloud-sdk
   google-japanese-ime
   gyazo
   intellij-idea
