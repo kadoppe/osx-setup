@@ -128,6 +128,7 @@ apps=(
   tower
   trailer
   vagrant
+  visual-studio-code
   #virtualbox
   webstorm
 )
