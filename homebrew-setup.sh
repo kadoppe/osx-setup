@@ -76,6 +76,7 @@ apps=(
   alfred
   android-file-transfer
   android-platform-tools
+  android-studio
   appcleaner
   caffeine
   caprine
