@@ -85,6 +85,7 @@ apps=(
   cyberduck
   daisydisk
   dash
+  deckset
   docker-edge
   dropbox
   duet
