@@ -36,7 +36,6 @@ binaries=(
   gpg
   gradle
   graphicsmagick
-  heroku-toolbelt
   htop-osx
   hub
   hugo
