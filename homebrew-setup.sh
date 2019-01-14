@@ -149,6 +149,7 @@ storeapps=(
   539883307 # LINE
   585829637 # Todoist
   803453959 # Slack
+  1055511498 # Dayone
 )
 
 mas upgrade
