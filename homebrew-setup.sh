@@ -86,6 +86,7 @@ apps=(
   dash
   deckset
   docker-edge
+  drafts
   dropbox
   duet
   fantastical
