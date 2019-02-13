@@ -31,6 +31,7 @@ binaries=(
   dfu-programmer
   elixir
   fish
+  ffmpeg
   gifsicle
   ghq
   gpg
