@@ -115,6 +115,7 @@ apps=(
   kitematic
   licecap
   maczip4win
+  memory-tracker-by-timely
   minecraft
   notion
   # onyx
