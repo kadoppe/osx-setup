@@ -154,6 +154,7 @@ storeapps=(
   585829637 # Todoist
   803453959 # Slack
   1055511498 # Dayone
+  1387480496 # BrowserOpener
 )
 
 mas upgrade
