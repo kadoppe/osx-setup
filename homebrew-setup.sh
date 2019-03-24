@@ -29,6 +29,7 @@ binaries=(
   ctags
   direnv
   dfu-programmer
+  docker-clean
   elixir
   fish
   ffmpeg
