@@ -126,6 +126,7 @@ apps=(
   sketch
   skitch
   skype
+  station
   steam
   studio-3t
   spotify
