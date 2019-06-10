@@ -79,6 +79,7 @@ apps=(
   android-platform-tools
   android-studio
   appcleaner
+  bluestacks
   caffeine
   chromedriver
   coteditor
