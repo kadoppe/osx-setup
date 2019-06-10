@@ -119,6 +119,7 @@ apps=(
   minecraft
   ngrok
   notion
+  nox-app-player
   # onyx
   parallels
   postman
