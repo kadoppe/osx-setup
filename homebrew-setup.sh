@@ -118,6 +118,7 @@ apps=(
   maczip4win
   memory-tracker-by-timely
   minecraft
+  ngrok
   notion
   # onyx
   parallels
