@@ -80,7 +80,6 @@ apps=(
   android-studio
   appcleaner
   caffeine
-  caprine
   chromedriver
   coteditor
   cyberduck
