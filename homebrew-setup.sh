@@ -46,7 +46,7 @@ binaries=(
   lazydocker
   mas
   mackup
-  mongodb
+  #mongodb
   neovim
   nkf
   oath-toolkit
@@ -59,7 +59,7 @@ binaries=(
   tmux
   tmux-mem-cpu-load
   tree
-  typesafe-activator
+  #typesafe-activator
   watchman
   wget
   zsh
