@@ -43,6 +43,7 @@ binaries=(
   hugo
   imagemagick
   jq
+  lazydocker
   mas
   mackup
   mongodb
@@ -88,7 +89,6 @@ apps=(
   dash
   deckset
   docker-edge
-  drafts
   dropbox
   duet
   fantastical
