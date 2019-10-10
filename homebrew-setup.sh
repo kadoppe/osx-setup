@@ -51,6 +51,7 @@ binaries=(
   nkf
   oath-toolkit
   reattach-to-user-namespace
+  shyiko/kubesec/kubesec
   ssh-copy-id
   teensy_loader_cli
   terraform
@@ -128,7 +129,7 @@ apps=(
   sketch
   skitch
   skype
-  station
+  stack
   steam
   studio-3t
   spotify
