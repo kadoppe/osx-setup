@@ -11,10 +11,10 @@ brew update
 echo "Updating existing binaries"
 brew upgrade
 
-brew tap caskroom/cask
+brew tap homebrew/cask-cask
 brew tap homebrew/cask
-brew tap caskroom/fonts
-brew tap caskroom/versions
+brew tap homebrew/cask-fonts
+brew tap homebrew/cask-versions
 brew tap sanemat/font
 brew tap cloudfoundry/tap
 
