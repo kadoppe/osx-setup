@@ -11,7 +11,6 @@ brew update
 echo "Updating existing binaries"
 brew upgrade
 
-brew tap homebrew/cask-cask
 brew tap homebrew/cask
 brew tap homebrew/cask-fonts
 brew tap homebrew/cask-versions
@@ -140,6 +139,7 @@ apps=(
   visual-studio-code
   #virtualbox
   webstorm
+  quitter
 )
 
 brew install ricty --with-powerline
