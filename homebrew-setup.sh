@@ -81,7 +81,6 @@ apps=(
   android-studio
   appcleaner
   bluestacks
-  caffeine
   chromedriver
   coteditor
   cyberduck
