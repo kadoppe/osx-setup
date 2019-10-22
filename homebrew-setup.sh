@@ -35,6 +35,7 @@ binaries=(
   gifsicle
   ghq
   gpg
+  gnu-sed
   gradle
   graphicsmagick
   htop-osx
