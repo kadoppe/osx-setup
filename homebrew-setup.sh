@@ -58,6 +58,7 @@ binaries=(
   the_silver_searcher
   tig
   tmux
+  tmuxinator
   tmux-mem-cpu-load
   tree
   #typesafe-activator
