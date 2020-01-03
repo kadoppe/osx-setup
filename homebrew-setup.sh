@@ -89,6 +89,7 @@ apps=(
   daisydisk
   dash
   deckset
+  discord
   docker-edge
   dropbox
   duet
