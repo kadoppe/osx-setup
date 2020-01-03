@@ -92,6 +92,7 @@ apps=(
   docker-edge
   dropbox
   duet
+  eclipse-ide
   fantastical
   firefox
   flip4mac
