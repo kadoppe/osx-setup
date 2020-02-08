@@ -163,6 +163,7 @@ storeapps=(
   1387480496 # BrowserOpener
   1368722917 # Efforless
   1033074719 # Bilingual News
+  871726894 # Eye break
 )
 
 mas upgrade
