@@ -117,6 +117,7 @@ apps=(
   karabiner-elements
   kindle
   kitematic
+  krisp
   licecap
   maczip4win
   memory-tracker-by-timely
