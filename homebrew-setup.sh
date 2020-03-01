@@ -82,6 +82,7 @@ apps=(
   android-platform-tools
   android-studio
   appcleaner
+  browserstacklocal
   bluestacks
   chromedriver
   coteditor
