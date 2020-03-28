@@ -167,6 +167,7 @@ storeapps=(
   1368722917 # Efforless
   1033074719 # Bilingual News
   871726894 # Eye break
+  668208984 # GIPHY Capture
 )
 
 mas upgrade
