@@ -120,6 +120,7 @@ apps=(
   kitematic
   krisp
   licecap
+  loom
   maczip4win
   memory-tracker-by-timely
   minecraft
