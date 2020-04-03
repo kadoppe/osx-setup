@@ -128,6 +128,7 @@ apps=(
   notion
   nox-app-player
   # onyx
+  obs
   parallels
   postman
   sequel-pro
