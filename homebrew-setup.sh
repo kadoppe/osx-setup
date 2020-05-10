@@ -109,6 +109,7 @@ apps=(
   google-cloud-sdk
   google-japanese-ime
   gyazo
+  hammerspoon
   houseparty
   intellij-idea
   istat-menus
