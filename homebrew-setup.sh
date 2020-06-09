@@ -88,7 +88,6 @@ apps=(
   coteditor
   cyberduck
   daisydisk
-  dash
   deckset
   discord
   docker-edge
@@ -109,8 +108,7 @@ apps=(
   google-cloud-sdk
   google-japanese-ime
   gyazo
-  hammerspoon
-  houseparty
+  hyperswitch
   intellij-idea
   istat-menus
   iterm2
@@ -124,11 +122,9 @@ apps=(
   licecap
   loom
   maczip4win
-  memory-tracker-by-timely
   minecraft
   ngrok
   notion
-  nox-app-player
   # onyx
   obs
   parallels
