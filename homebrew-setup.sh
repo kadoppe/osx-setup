@@ -51,6 +51,7 @@ binaries=(
   nkf
   oath-toolkit
   reattach-to-user-namespace
+  redis
   shyiko/kubesec/kubesec
   ssh-copy-id
   teensy_loader_cli
@@ -90,7 +91,7 @@ apps=(
   daisydisk
   deckset
   discord
-  docker-edge
+  docker
   dropbox
   duet
   eclipse-ide
