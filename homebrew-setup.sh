@@ -90,6 +90,7 @@ apps=(
   cyberduck
   daisydisk
   deckset
+  deepl
   discord
   docker
   dropbox
