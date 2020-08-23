@@ -70,6 +70,7 @@ binaries=(
   peco
   pyenv
   pyenv-virtualenv
+  ripgrep
   yarn
 )
 
