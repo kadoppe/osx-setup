@@ -87,6 +87,7 @@ apps=(
   browserstacklocal
   bluestacks
   chromedriver
+  choosy
   coteditor
   cyberduck
   daisydisk
