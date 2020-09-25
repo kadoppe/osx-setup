@@ -1,11 +1,10 @@
 #!/usr/bin/env fish
 
-asdf install ruby 2.4.2
-asdf global ruby 2.4.2
+sudo gem install homesick
+sudo gem update homesick
 
-gem install homesick
-gem update homesick
+sudo gem install tmuxinator
+sudo gem update tmuxinator
 
-gem install tmuxinator
-gem update tmuxinator
-
+sudo gem install neovim
+sudo gem update neovim
