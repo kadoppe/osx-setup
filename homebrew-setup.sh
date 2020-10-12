@@ -80,12 +80,7 @@ brew install ${binaries[@]}
 apps=(
   1password
   alfred
-  android-file-transfer
-  android-platform-tools
-  android-studio
-  appcleaner
   browserstacklocal
-  bluestacks
   chromedriver
   choosy
   coteditor
@@ -99,14 +94,11 @@ apps=(
   eclipse-ide
   fantastical
   firefox
-  flip4mac
-  fman
   flux
   font-fontawesome
   font-noto-sans-cjk-jp
   font-roboto
   font-source-han-sans
-  gitter
   google-chrome
   google-cloud-sdk
   google-japanese-ime
@@ -114,7 +106,6 @@ apps=(
   hyperswitch
   intellij-idea
   istat-menus
-  iterm2
   jasper
   java
   keyboard-cleaner
@@ -128,7 +119,6 @@ apps=(
   minecraft
   ngrok
   notion
-  # onyx
   obs
   parallels
   postman
@@ -145,7 +135,6 @@ apps=(
   trailer
   vagrant
   visual-studio-code
-  #virtualbox
   webstorm
   quitter
 )
