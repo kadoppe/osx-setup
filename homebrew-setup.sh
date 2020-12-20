@@ -80,17 +80,15 @@ brew install ${binaries[@]}
 apps=(
   1password
   alfred
+  brave-browser
   browserstacklocal
   chromedriver
   choosy
   coteditor
-  cyberduck
   daisydisk
-  deckset
   discord
   docker
   dropbox
-  duet
   eclipse-ide
   fantastical
   firefox
@@ -102,41 +100,27 @@ apps=(
   google-chrome
   google-cloud-sdk
   google-japanese-ime
-  gyazo
-  hyperswitch
   intellij-idea
   istat-menus
-  jasper
   java
   keyboard-cleaner
   karabiner-elements
   kindle
-  kitematic
   krisp
-  licecap
   loom
   maczip4win
-  minecraft
   ngrok
   notion
-  obs
-  parallels
   postman
-  sequel-pro
   sketch
   skitch
   skype
-  stack
-  steam
   studio-3t
   spotify
   the-unarchiver
   tower
-  trailer
-  vagrant
   visual-studio-code
   webstorm
-  quitter
 )
 
 brew install ricty --with-powerline
