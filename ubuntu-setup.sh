@@ -1,5 +1,14 @@
 #!/usr/bin/env bash
 
+echo "Essential settings.."
+timedatectl set-timezone Asia/Tokyo
+
+echo "Updateing packages.."
+sudo apt update
+sudo apt dist-upgrade
+sudo apt autoremove
+
+echo "Installing packages.."
 binaries=(
   direnv
   fish
@@ -15,10 +24,5 @@ binaries=(
   ruby-dev
 )
 
-echo "Installing packages.."
 sudo apt install -y ${binaries[@]}
 
-echo "Updateing packages.."
-sudo apt update
-sudo apt dist-upgrade
-sudo apt autoremove
