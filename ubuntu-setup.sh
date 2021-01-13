@@ -4,6 +4,7 @@ binaries=(
   direnv
   fish
   golang-go
+  neovim
   nodejs
   peco
   python
