@@ -54,6 +54,7 @@ binaries=(
   redis
   shyiko/kubesec/kubesec
   ssh-copy-id
+  svn
   teensy_loader_cli
   terraform
   the_silver_searcher
