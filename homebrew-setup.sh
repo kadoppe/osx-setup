@@ -128,7 +128,7 @@ cp -f /usr/local/opt/ricty/share/fonts/Ricty*.ttf ~/Library/Fonts/
 fc-cache -vf
 
 echo "Installing apps..."
-brew cask install --appdir="/Applications" ${apps[@]}
+brew install -f --cask --appdir="/Applications" ${apps[@]}
 
 echo "Installing store apps..."
 storeapps=(
