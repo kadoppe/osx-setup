@@ -119,7 +119,7 @@ apps=(
 )
 
 brew install ricty --with-powerline
-cp -f /usr/local/opt/ricty/share/fonts/Ricty*.ttf ~/Library/Fonts/
+cp -f /opt/homebrew/Cellar/ricty/4.1.1/share/fonts/Ricty*.ttf ~/Library/Fonts
 fc-cache -vf
 
 echo "Installing apps..."
