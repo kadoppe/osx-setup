@@ -2,10 +2,10 @@
 
 sudo -v
 
-if not grep -q '/usr/local/bin/fish' /etc/shells
-  echo "/usr/local/bin/fish" | sudo tee -a /etc/shells
+if not grep -q '/opt/homebrew/bin/fish' /etc/shells
+  echo "/opt/homebrew/bin/fish" | sudo tee -a /etc/shells
 end
-chsh -s /usr/local/bin/fish
+chsh -s /opt/homebrew/bin/fish
 
 curl -Lo ~/.config/fish/functions/fisher.fish --create-dirs git.io/fisher
 
