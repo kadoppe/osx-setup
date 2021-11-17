@@ -17,12 +17,11 @@ brew tap homebrew/cask-versions
 brew tap sanemat/font
 brew tap cloudfoundry/tap
 
-brew cask install java
+brew install java
 
 binaries=(
   ansible
   awscli
-  cf-cli
   composer
   coreutils
   ctags
@@ -46,13 +45,11 @@ binaries=(
   lazydocker
   mas
   mackup
-  #mongodb
   neovim
   nkf
   oath-toolkit
   reattach-to-user-namespace
   redis
-  shyiko/kubesec/kubesec
   ssh-copy-id
   svn
   teensy_loader_cli
@@ -63,7 +60,6 @@ binaries=(
   tmuxinator
   tmux-mem-cpu-load
   tree
-  #typesafe-activator
   watchman
   wget
   zsh
@@ -97,13 +93,11 @@ apps=(
   font-fontawesome
   font-noto-sans-cjk-jp
   font-roboto
-  font-source-han-sans
   google-chrome
   google-cloud-sdk
   google-japanese-ime
   intellij-idea
   istat-menus
-  java
   keyboard-cleaner
   karabiner-elements
   kindle
