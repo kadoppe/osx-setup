@@ -17,7 +17,7 @@ fisher install oh-my-fish/plugin-peco
 fisher install yoshiori/fish-peco_select_ghq_repository
 fisher install spentacular/asdf-fish
 fisher install daenney/pyenv
-fisher install jorgebucaran/nvm.fish 
+fisher install edc/bass
 
 echo "Update all plugin..."
 fisher update

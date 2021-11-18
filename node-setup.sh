@@ -1,4 +1,3 @@
 #!/usr/bin/env fish
-curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.33.6/install.sh | bash
-
-nvm install v10.16
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.0/install.sh | bash
+nvm install v14
