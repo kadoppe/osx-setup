@@ -83,6 +83,7 @@ apps=(
   choosy
   coteditor
   daisydisk
+  deepl
   discord
   docker
   dropbox
