@@ -77,6 +77,7 @@ brew install ${binaries[@]}
 apps=(
   1password
   alfred
+  bartender
   brave-browser
   browserstacklocal
   chromedriver
