@@ -116,6 +116,7 @@ apps=(
   spotify
   the-unarchiver
   tower
+  toggl-track
   visual-studio-code
   webstorm
 )
