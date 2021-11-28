@@ -45,6 +45,7 @@ binaries=(
   lazydocker
   mas
   mackup
+  mercurial
   neovim
   nkf
   oath-toolkit
