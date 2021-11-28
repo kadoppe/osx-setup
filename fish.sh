@@ -18,6 +18,7 @@ fisher install yoshiori/fish-peco_select_ghq_repository
 fisher install spentacular/asdf-fish
 fisher install daenney/pyenv
 fisher install edc/bass
+fisher install FabioAntunes/fish-nvm
 
 echo "Update all plugin..."
 fisher update
