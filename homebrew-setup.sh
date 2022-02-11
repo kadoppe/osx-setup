@@ -46,6 +46,7 @@ binaries=(
   mas
   mackup
   mercurial
+  mkcert
   neovim
   nkf
   oath-toolkit
