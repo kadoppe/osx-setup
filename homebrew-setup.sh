@@ -79,6 +79,7 @@ brew install ${binaries[@]}
 apps=(
   1password
   alfred
+  around
   bartender
   brave-browser
   browserstacklocal
