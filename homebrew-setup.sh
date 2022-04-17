@@ -95,6 +95,7 @@ apps=(
   fantastical
   firefox
   flux
+  flutter
   font-fontawesome
   font-noto-sans-cjk-jp
   font-roboto
