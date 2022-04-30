@@ -78,6 +78,7 @@ brew install ${binaries[@]}
 
 apps=(
   1password
+  android-studio
   alfred
   around
   bartender
