@@ -20,57 +20,25 @@ brew tap cloudfoundry/tap
 brew install java
 
 binaries=(
-  ansible
-  awscli
-  composer
   coreutils
-  ctags
   direnv
-  dfu-programmer
-  docker-clean
-  elixir
   fish
   ffmpeg
   gifsicle
   ghq
-  gpg
-  gnu-sed
-  gradle
-  graphicsmagick
-  htop-osx
-  hub
-  hugo
-  imagemagick
   jq
   lazydocker
   mas
-  mackup
-  mercurial
-  mkcert
   neovim
-  nkf
-  oath-toolkit
   reattach-to-user-namespace
-  redis
-  ssh-copy-id
   svn
-  teensy_loader_cli
-  terraform
-  the_silver_searcher
-  tig
   tmux
   tmuxinator
   tmux-mem-cpu-load
-  tree
-  watchman
   wget
-  zsh
-  gibo
   peco
   pyenv
   pyenv-virtualenv
-  ripgrep
-  yarn
 )
 
 echo "Installing binaries..."
@@ -81,18 +49,12 @@ apps=(
   android-studio
   alfred
   around
-  bartender
-  brave-browser
-  browserstacklocal
-  chromedriver
   choosy
   coteditor
-  daisydisk
   deepl
   discord
   docker
   dropbox
-  eclipse-ide
   fantastical
   firefox
   flux
@@ -105,23 +67,18 @@ apps=(
   google-japanese-ime
   intellij-idea
   istat-menus
+  iterm2
   keyboard-cleaner
   karabiner-elements
   kindle
   krisp
   loom
-  maczip4win
   ngrok
   notion
-  postman
-  sketch
   skitch
-  skype
   studio-3t
   spotify
-  the-unarchiver
   tower
-  toggl-track
   visual-studio-code
   webstorm
 )
@@ -138,14 +95,7 @@ storeapps=(
   1176895641 # Spark - Love your email again
   441258766 # Magnet
   539883307 # LINE
-  585829637 # Todoist
   803453959 # Slack
-  1055511498 # Dayone
-  1387480496 # BrowserOpener
-  1368722917 # Efforless
-  1033074719 # Bilingual News
-  871726894 # Eye break
-  668208984 # GIPHY Capture
 )
 
 mas upgrade
