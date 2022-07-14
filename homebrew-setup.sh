@@ -30,6 +30,7 @@ binaries=(
   lazydocker
   mas
   neovim
+  node
   reattach-to-user-namespace
   svn
   tmux
