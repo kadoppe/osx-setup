@@ -73,6 +73,7 @@ apps=(
   karabiner-elements
   kindle
   krisp
+  linear-linear
   loom
   ngrok
   notion
