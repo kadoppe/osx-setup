@@ -80,6 +80,7 @@ apps=(
   skitch
   studio-3t
   spotify
+  ticktick
   tower
   visual-studio-code
   webstorm
