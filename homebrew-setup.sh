@@ -78,6 +78,7 @@ apps=(
   ngrok
   notion
   skitch
+  steam
   studio-3t
   spotify
   ticktick
