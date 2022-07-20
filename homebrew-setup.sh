@@ -40,6 +40,7 @@ binaries=(
   peco
   pyenv
   pyenv-virtualenv
+  ripgrep
 )
 
 echo "Installing binaries..."
