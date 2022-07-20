@@ -85,6 +85,7 @@ apps=(
   tower
   visual-studio-code
   webstorm
+  zoom
 )
 
 brew install ricty --with-powerline
