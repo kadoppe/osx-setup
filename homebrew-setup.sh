@@ -50,6 +50,7 @@ apps=(
   android-studio
   alfred
   around
+  camo-studio
   choosy
   coteditor
   deepl
