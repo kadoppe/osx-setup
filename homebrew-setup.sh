@@ -63,6 +63,7 @@ apps=(
   flux
   flutter
   font-fontawesome
+  font-dejavu-sans-mono-nerd-font
   font-noto-sans-cjk-jp
   font-roboto
   google-chrome
