@@ -22,6 +22,7 @@ brew install java
 binaries=(
   coreutils
   direnv
+  exa
   fish
   ffmpeg
   gifsicle
