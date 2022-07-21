@@ -30,6 +30,7 @@ binaries=(
   jq
   lazydocker
   mas
+  mkcert
   neovim
   node
   reattach-to-user-namespace
