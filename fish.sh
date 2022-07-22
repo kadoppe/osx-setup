@@ -15,7 +15,6 @@ fisher install jethrokuan/z
 fisher install 0rax/fish-bd
 fisher install oh-my-fish/plugin-peco
 fisher install yoshiori/fish-peco_select_ghq_repository
-fisher install spentacular/asdf-fish
 fisher install daenney/pyenv
 fisher install edc/bass
 fisher install FabioAntunes/fish-nvm
