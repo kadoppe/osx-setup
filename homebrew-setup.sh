@@ -37,7 +37,6 @@ binaries=(
   svn
   tmux
   tmuxinator
-  tmux-mem-cpu-load
   wget
   peco
   pyenv
