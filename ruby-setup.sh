@@ -3,8 +3,8 @@
 sudo gem install homesick
 sudo gem update homesick
 
-sudo gem install tmuxinator
-sudo gem update tmuxinator
-
 sudo gem install neovim
 sudo gem update neovim
+
+sudo gem install cocoapods
+sudo gem update cocoapods
