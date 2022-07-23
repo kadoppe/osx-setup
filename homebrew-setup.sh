@@ -105,6 +105,7 @@ storeapps=(
   441258766 # Magnet
   539883307 # LINE
   803453959 # Slack
+  497799835 # XCode
 )
 
 mas upgrade
