@@ -49,6 +49,7 @@ brew install ${binaries[@]}
 
 apps=(
   1password
+  aerial
   android-studio
   alfred
   around
