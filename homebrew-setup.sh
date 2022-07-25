@@ -61,6 +61,7 @@ apps=(
   docker
   dropbox
   fantastical
+  figma
   firefox
   flux
   flutter
