@@ -72,6 +72,7 @@ apps=(
   google-chrome
   google-cloud-sdk
   google-japanese-ime
+  inkdrop
   intellij-idea
   istat-menus
   iterm2
