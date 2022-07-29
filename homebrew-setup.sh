@@ -63,7 +63,6 @@ apps=(
   fantastical
   figma
   firefox
-  flux
   flutter
   font-fontawesome
   font-dejavu-sans-mono-nerd-font
