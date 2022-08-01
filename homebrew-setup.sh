@@ -53,6 +53,7 @@ apps=(
   android-studio
   alfred
   around
+  bartender
   camo-studio
   choosy
   coteditor
