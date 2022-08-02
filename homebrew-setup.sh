@@ -36,6 +36,7 @@ binaries=(
   node
   reattach-to-user-namespace
   svn
+  terraform
   tmux
   tmuxinator
   wget
