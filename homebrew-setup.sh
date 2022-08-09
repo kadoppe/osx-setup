@@ -86,6 +86,7 @@ apps=(
   linear-linear
   loom
   messenger
+  microsoft-edge
   ngrok
   notion
   skitch
