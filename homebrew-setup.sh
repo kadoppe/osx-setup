@@ -41,6 +41,7 @@ binaries=(
   tmuxinator
   wget
   peco
+  php
   pyenv
   pyenv-virtualenv
   ripgrep
@@ -84,6 +85,7 @@ apps=(
   krisp
   linear-linear
   loom
+  messenger
   ngrok
   notion
   skitch
