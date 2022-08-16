@@ -27,6 +27,7 @@ binaries=(
   ffmpeg
   gifsicle
   ghq
+  gh
   go
   jq
   lazydocker
