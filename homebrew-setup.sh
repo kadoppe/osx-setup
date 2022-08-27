@@ -55,7 +55,6 @@ apps=(
   1password
   aerial
   android-studio
-  alfred
   around
   bartender
   camo-studio
