@@ -30,12 +30,14 @@ binaries=(
   gh
   go
   jq
+  kubectx
   lazydocker
   mas
   mkcert
   neovim
   node
   reattach-to-user-namespace
+  skaffold
   svn
   terraform
   tmux
