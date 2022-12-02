@@ -58,6 +58,7 @@ apps=(
   aerial
   android-studio
   around
+  audacity
   bartender
   camo-studio
   choosy
@@ -116,6 +117,8 @@ storeapps=(
   539883307 # LINE
   803453959 # Slack
   497799835 # XCode
+  1482454543 # Twitter
+  549083868 # Display Menu
 )
 
 mas upgrade
