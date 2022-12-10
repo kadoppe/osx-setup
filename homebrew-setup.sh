@@ -63,6 +63,7 @@ apps=(
   camo-studio
   choosy
   coteditor
+  cyberduck
   deepl
   discord
   docker
