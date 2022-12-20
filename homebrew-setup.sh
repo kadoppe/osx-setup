@@ -120,6 +120,7 @@ storeapps=(
   497799835 # XCode
   1482454543 # Twitter
   549083868 # Display Menu
+  784801555 # OneNote
 )
 
 mas upgrade
