@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 
-go get github.com/x-motemen/ghq
-go get github.com/mattn/efm-langserver
-go get github.com/mattn/memo
+go install github.com/x-motemen/ghq@latest
+go install github.com/mattn/efm-langserver@latest
+go install github.com/mattn/memo@latest
+go install github.com/rhysd/vim-startuptime@latest
