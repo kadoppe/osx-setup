@@ -87,7 +87,6 @@ apps=(
   keyboard-cleaner
   karabiner-elements
   kindle
-  krisp
   linear-linear
   loom
   messenger
