@@ -122,6 +122,7 @@ storeapps=(
   549083868 # Display Menu
   784801555 # OneNote
   1444383602 # GoodNotes 5
+  1435957248 # Drafts
 )
 
 mas upgrade
