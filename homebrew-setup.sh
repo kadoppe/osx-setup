@@ -123,6 +123,7 @@ storeapps=(
   784801555 # OneNote
   1444383602 # GoodNotes 5
   1435957248 # Drafts
+  1487937127 # Crafts
 )
 
 mas upgrade
