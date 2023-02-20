@@ -93,6 +93,7 @@ apps=(
   microsoft-edge
   ngrok
   notion
+  obsidian
   skitch
   steam
   studio-3t
