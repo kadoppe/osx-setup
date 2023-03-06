@@ -57,6 +57,7 @@ brew install ${binaries[@]}
 apps=(
   1password
   aerial
+  akiflow
   android-studio
   around
   audacity
@@ -125,6 +126,7 @@ storeapps=(
   1444383602 # GoodNotes 5
   1435957248 # Drafts
   1487937127 # Crafts
+  585829637 # Todoist
 )
 
 mas upgrade
