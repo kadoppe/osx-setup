@@ -56,6 +56,7 @@ brew install ${binaries[@]}
 
 apps=(
   1password
+  1password/tap/1password-cli
   aerial
   akiflow
   android-studio
