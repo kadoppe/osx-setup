@@ -101,6 +101,7 @@ apps=(
   skitch
   steam
   studio-3t
+  spaceman
   spotify
   ticktick
   tower
