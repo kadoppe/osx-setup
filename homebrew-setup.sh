@@ -24,31 +24,33 @@ binaries=(
   coreutils
   direnv
   exa
-  fish
   ffmpeg
-  gifsicle
-  ghq
+  fish
   gh
+  ghq
+  gifsicle
   go
   jq
+  koekeishiya/formulae/skhd
+  koekeishiya/formulae/yabai
   kubectx
   lazydocker
   mas
   mkcert
   neovim
   node
+  peco
+  php
+  pyenv
+  pyenv-virtualenv
   reattach-to-user-namespace
+  ripgrep
   skaffold
   svn
   terraform
   tmux
   tmuxinator
   wget
-  peco
-  php
-  pyenv
-  pyenv-virtualenv
-  ripgrep
 )
 
 echo "Installing binaries..."
