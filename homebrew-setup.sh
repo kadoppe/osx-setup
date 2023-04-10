@@ -84,6 +84,7 @@ apps=(
   google-chrome
   google-cloud-sdk
   google-japanese-ime
+  hammerspoon
   inkdrop
   intellij-idea
   istat-menus
