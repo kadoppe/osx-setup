@@ -65,7 +65,6 @@ apps=(
   around
   audacity
   bartender
-  camo-studio
   choosy
   coteditor
   cyberduck
@@ -84,10 +83,8 @@ apps=(
   google-chrome
   google-cloud-sdk
   google-japanese-ime
-  hammerspoon
   inkdrop
   intellij-idea
-  istat-menus
   iterm2
   keyboard-cleaner
   karabiner-elements
@@ -102,12 +99,12 @@ apps=(
   skitch
   steam
   studio-3t
-  spaceman
   spotify
   ticktick
   tower
   ubersicht
   visual-studio-code
+  vivaldi
   webstorm
   zoom
 )
