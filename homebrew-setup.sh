@@ -106,6 +106,7 @@ apps=(
   spotify
   ticktick
   tower
+  ubersicht
   visual-studio-code
   webstorm
   zoom
