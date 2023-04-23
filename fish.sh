@@ -10,7 +10,6 @@ chsh -s /opt/homebrew/bin/fish
 curl -Lo ~/.config/fish/functions/fisher.fish --create-dirs git.io/fisher
 
 echo "Install plugins..."
-fisher install IlanCosman/tide@v5
 fisher install jethrokuan/z
 fisher install 0rax/fish-bd
 fisher install oh-my-fish/plugin-peco
