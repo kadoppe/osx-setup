@@ -46,6 +46,7 @@ binaries=(
   reattach-to-user-namespace
   ripgrep
   skaffold
+  starship
   svn
   terraform
   tmux
