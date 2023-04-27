@@ -63,6 +63,7 @@ apps=(
   aerial
   akiflow
   android-studio
+  alacritty
   around
   audacity
   bartender
@@ -90,6 +91,7 @@ apps=(
   keyboard-cleaner
   karabiner-elements
   kindle
+  krisp
   linear-linear
   loom
   messenger
