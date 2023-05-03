@@ -78,8 +78,9 @@ apps=(
   figma
   firefox
   flutter
-  font-fontawesome
   font-dejavu-sans-mono-nerd-font
+  font-fira-code-nerd-font
+  font-fontawesome
   font-noto-sans-cjk-jp
   font-roboto
   google-chrome
