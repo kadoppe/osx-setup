@@ -26,6 +26,7 @@ binaries=(
   exa
   ffmpeg
   fish
+  fzf
   gh
   ghq
   gifsicle
