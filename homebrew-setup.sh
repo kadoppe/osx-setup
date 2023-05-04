@@ -43,7 +43,6 @@ binaries=(
   php
   pyenv
   pyenv-virtualenv
-  reattach-to-user-namespace
   ripgrep
   skaffold
   starship
