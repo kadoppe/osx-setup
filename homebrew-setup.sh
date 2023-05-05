@@ -20,6 +20,7 @@ brew tap cloudfoundry/tap
 brew install java
 
 binaries=(
+  bat
   bufbuild/buf/buf
   coreutils
   direnv
