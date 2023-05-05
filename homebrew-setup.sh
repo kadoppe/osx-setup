@@ -49,7 +49,6 @@ binaries=(
   svn
   terraform
   tmux
-  tmuxinator
   wget
 )
 
