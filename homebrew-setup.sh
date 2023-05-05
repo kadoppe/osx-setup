@@ -40,7 +40,6 @@ binaries=(
   mkcert
   neovim
   node
-  peco
   php
   pyenv
   pyenv-virtualenv
