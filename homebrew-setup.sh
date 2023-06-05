@@ -99,6 +99,7 @@ apps=(
   ngrok
   notion
   obsidian
+  postman
   skitch
   steam
   studio-3t
