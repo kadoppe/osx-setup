@@ -108,7 +108,6 @@ apps=(
   tower
   ubersicht
   visual-studio-code
-  vivaldi
   vlc
   webstorm
   zoom
