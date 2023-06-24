@@ -85,7 +85,6 @@ apps=(
   google-chrome
   google-cloud-sdk
   google-japanese-ime
-  inkdrop
   intellij-idea
   iterm2
   keyboard-cleaner
