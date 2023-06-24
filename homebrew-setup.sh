@@ -109,6 +109,7 @@ apps=(
   ubersicht
   visual-studio-code
   vivaldi
+  vlc
   webstorm
   zoom
 )
