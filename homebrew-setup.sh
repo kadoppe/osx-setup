@@ -99,6 +99,7 @@ apps=(
   obsidian
   postman
   skitch
+  slack-cli
   steam
   studio-3t
   spotify
