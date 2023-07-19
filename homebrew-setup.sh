@@ -73,6 +73,7 @@ apps=(
   discord
   docker
   dropbox
+  fellow
   figma
   firefox
   flutter
