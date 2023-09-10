@@ -16,12 +16,14 @@ brew tap homebrew/cask-fonts
 brew tap homebrew/cask-versions
 brew tap sanemat/font
 brew tap cloudfoundry/tap
+brew tap oven-sh/bun
 
 brew install java
 
 binaries=(
   bat
   bufbuild/buf/buf
+  bun
   coreutils
   direnv
   exa
@@ -98,6 +100,7 @@ apps=(
   ngrok
   notion
   obsidian
+  orbstack
   postman
   skitch
   slack-cli
