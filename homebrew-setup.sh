@@ -95,6 +95,7 @@ apps=(
   krisp
   linear-linear
   loom
+  mecab
   messenger
   microsoft-edge
   ngrok
