@@ -96,6 +96,7 @@ apps=(
   linear-linear
   loom
   mecab
+  mecab-ipadic
   messenger
   microsoft-edge
   ngrok
