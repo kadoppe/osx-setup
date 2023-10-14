@@ -26,7 +26,7 @@ binaries=(
   bun
   coreutils
   direnv
-  exa
+  eza
   ffmpeg
   fish
   fzf
@@ -132,7 +132,6 @@ storeapps=(
   539883307 # LINE
   803453959 # Slack
   497799835 # XCode
-  1482454543 # Twitter
   549083868 # Display Menu
   784801555 # OneNote
   1444383602 # GoodNotes 5
