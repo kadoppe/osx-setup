@@ -71,6 +71,7 @@ apps=(
   choosy
   coteditor
   cyberduck
+  datagrid
   deepl
   discord
   docker
