@@ -74,7 +74,6 @@ apps=(
   datagrid
   deepl
   discord
-  docker
   dropbox
   fellow
   figma
@@ -88,13 +87,11 @@ apps=(
   google-chrome
   google-cloud-sdk
   google-japanese-ime
-  intellij-idea
   keyboard-cleaner
   karabiner-elements
   kindle
   krisp
   linear-linear
-  loom
   mecab
   mecab-ipadic
   messenger
@@ -105,16 +102,12 @@ apps=(
   orbstack
   postman
   skitch
-  slack-cli
   steam
   studio-3t
   spotify
-  ticktick
   tower
-  ubersicht
   visual-studio-code
   vlc
-  webstorm
   zoom
 )
 
@@ -128,15 +121,9 @@ brew install -f --cask --appdir="/Applications" ${apps[@]}
 echo "Installing store apps..."
 storeapps=(
   1176895641 # Spark - Love your email again
-  441258766 # Magnet
   539883307 # LINE
   803453959 # Slack
   497799835 # XCode
-  549083868 # Display Menu
-  784801555 # OneNote
-  1444383602 # GoodNotes 5
-  1435957248 # Drafts
-  1487937127 # Crafts
   585829637 # Todoist
 )
 
