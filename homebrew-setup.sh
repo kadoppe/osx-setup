@@ -89,7 +89,6 @@ apps=(
   google-cloud-sdk
   google-japanese-ime
   intellij-idea
-  iterm2
   keyboard-cleaner
   karabiner-elements
   kindle
