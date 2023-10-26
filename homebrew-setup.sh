@@ -125,6 +125,7 @@ storeapps=(
   803453959 # Slack
   497799835 # XCode
   585829637 # Todoist
+  1291898086 # Toggl
 )
 
 mas upgrade
