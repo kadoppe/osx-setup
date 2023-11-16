@@ -34,6 +34,7 @@ binaries=(
   ghq
   gifsicle
   go
+  golangci-lint
   jq
   koekeishiya/formulae/skhd
   koekeishiya/formulae/yabai
