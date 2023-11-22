@@ -24,6 +24,7 @@ binaries=(
   bat
   bufbuild/buf/buf
   bun
+  cabocha
   coreutils
   direnv
   eza
