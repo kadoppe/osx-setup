@@ -46,6 +46,7 @@ binaries=(
   neovim
   node
   php
+  postgresql
   pyenv
   pyenv-virtualenv
   ripgrep
