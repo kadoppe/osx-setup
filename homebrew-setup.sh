@@ -36,6 +36,7 @@ binaries=(
   gifsicle
   go
   golangci-lint
+  httpie
   jq
   koekeishiya/formulae/skhd
   koekeishiya/formulae/yabai
