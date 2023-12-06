@@ -30,6 +30,7 @@ binaries=(
   eza
   ffmpeg
   fish
+  fsouza/prettierd/prettierd
   fzf
   gh
   ghq
