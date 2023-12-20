@@ -43,6 +43,7 @@ binaries=(
   koekeishiya/formulae/yabai
   kubectx
   lazydocker
+  lazygit
   mas
   mkcert
   neovim
