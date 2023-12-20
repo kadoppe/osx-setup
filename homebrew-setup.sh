@@ -111,7 +111,6 @@ apps=(
   steam
   studio-3t
   spotify
-  tower
   visual-studio-code
   vlc
   zoom
