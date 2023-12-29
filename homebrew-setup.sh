@@ -26,6 +26,7 @@ binaries=(
   bun
   cabocha
   coreutils
+  difftastic
   direnv
   eza
   ffmpeg
