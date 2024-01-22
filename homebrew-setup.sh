@@ -39,6 +39,7 @@ binaries=(
   gifsicle
   go
   golangci-lint
+  graphviz
   httpie
   jq
   koekeishiya/formulae/skhd
