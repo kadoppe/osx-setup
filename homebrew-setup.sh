@@ -79,6 +79,7 @@ apps=(
   bartender
   choosy
   coteditor
+  crystalfetch
   cyberduck
   datagrid
   deepl
@@ -114,6 +115,7 @@ apps=(
   steam
   studio-3t
   spotify
+  utm
   visual-studio-code
   vlc
   zoom
