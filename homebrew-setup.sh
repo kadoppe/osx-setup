@@ -21,6 +21,7 @@ brew tap oven-sh/bun
 brew install java
 
 binaries=(
+  act
   aicommits
   bat
   bufbuild/buf/buf
