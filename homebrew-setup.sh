@@ -49,6 +49,7 @@ binaries=(
   lazydocker
   lazygit
   mas
+  mise
   mkcert
   neovim
   node
