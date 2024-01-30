@@ -28,6 +28,7 @@ binaries=(
   bun
   cabocha
   coreutils
+  dbeaver-community
   difftastic
   direnv
   eza
