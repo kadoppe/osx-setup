@@ -139,6 +139,7 @@ storeapps=(
   497799835 # XCode
   585829637 # Todoist
   1291898086 # Toggl
+  1521432881 # Session
 )
 
 mas upgrade
