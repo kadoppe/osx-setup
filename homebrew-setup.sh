@@ -74,21 +74,14 @@ apps=(
   1password
   1password/tap/1password-cli
   aerial
-  akiflow
-  android-studio
   alacritty
   around
-  audacity
   bartender
-  choosy
   coteditor
-  crystalfetch
   cyberduck
-  datagrid
   deepl
   discord
   dropbox
-  fellow
   figma
   firefox
   flutter
@@ -114,13 +107,10 @@ apps=(
   obsidian
   orbstack
   postman
-  skitch
   steam
   studio-3t
   spotify
-  utm
   visual-studio-code
-  vlc
   zoom
 )
 
