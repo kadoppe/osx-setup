@@ -52,6 +52,7 @@ binaries=(
   mas
   mise
   mkcert
+  mysql-client
   neovim
   node
   php
