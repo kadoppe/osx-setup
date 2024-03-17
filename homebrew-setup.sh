@@ -39,6 +39,7 @@ binaries=(
   gh
   ghq
   gifsicle
+  git-filter-repo
   go
   golangci-lint
   graphviz
