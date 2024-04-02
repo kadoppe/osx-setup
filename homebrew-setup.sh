@@ -84,6 +84,7 @@ apps=(
   bartender
   coteditor
   cyberduck
+  datagrip
   deepl
   discord
   dropbox
