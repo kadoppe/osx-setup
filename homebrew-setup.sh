@@ -17,6 +17,7 @@ brew tap homebrew/cask-versions
 brew tap sanemat/font
 brew tap cloudfoundry/tap
 brew tap oven-sh/bun
+brew tap mongodb/brew
 
 brew install java
 
@@ -53,6 +54,7 @@ binaries=(
   mas
   mise
   mkcert
+  mongodb-community
   mysql-client
   neovim
   node
