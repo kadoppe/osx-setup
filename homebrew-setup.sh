@@ -24,6 +24,7 @@ brew install java
 binaries=(
   act
   aicommits
+  awscli
   bat
   bufbuild/buf/buf
   bun
