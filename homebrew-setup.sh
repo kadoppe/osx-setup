@@ -63,6 +63,7 @@ binaries=(
   postgresql
   pyenv
   pyenv-virtualenv
+  qmk/qmk/qmk
   ripgrep
   skaffold
   starship
