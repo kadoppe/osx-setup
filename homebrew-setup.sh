@@ -109,6 +109,7 @@ apps=(
   mecab-ipadic
   messenger
   microsoft-edge
+  mos
   ngrok
   notion
   obsidian
