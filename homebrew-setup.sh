@@ -98,6 +98,7 @@ apps=(
   font-fontawesome
   font-noto-sans-cjk-jp
   font-roboto
+  gather
   google-chrome
   google-cloud-sdk
   google-japanese-ime
