@@ -104,7 +104,6 @@ apps=(
   keyboard-cleaner
   karabiner-elements
   kindle
-  krisp
   linear-linear
   messenger
   microsoft-edge
