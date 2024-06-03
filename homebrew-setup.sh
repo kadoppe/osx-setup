@@ -93,7 +93,6 @@ apps=(
   figma
   firefox
   flutter
-  font-dejavu-sans-mono-nerd-font
   font-fira-code-nerd-font
   font-fontawesome
   font-noto-sans-cjk-jp
@@ -121,10 +120,6 @@ apps=(
   visual-studio-code
   zoom
 )
-
-brew install ricty --with-powerline
-cp -f /opt/homebrew/Cellar/ricty/4.1.1/share/fonts/Ricty*.ttf ~/Library/Fonts
-fc-cache -vf
 
 echo "Installing apps..."
 brew install -f --cask --appdir="/Applications" ${apps[@]}
