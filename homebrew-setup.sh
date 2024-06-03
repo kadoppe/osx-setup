@@ -113,6 +113,7 @@ apps=(
   mos
   ngrok
   notion
+  notion-calendar
   obsidian
   orbstack
   postman
