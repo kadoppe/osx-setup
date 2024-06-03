@@ -18,12 +18,14 @@ brew tap sanemat/font
 brew tap cloudfoundry/tap
 brew tap oven-sh/bun
 brew tap mongodb/brew
+brew tap osx-cross/avr
 
 brew install java
 
 binaries=(
   act
   aicommits
+  avr-gcc
   awscli
   bat
   bufbuild/buf/buf
