@@ -106,8 +106,6 @@ apps=(
   kindle
   krisp
   linear-linear
-  mecab
-  mecab-ipadic
   messenger
   microsoft-edge
   mos
