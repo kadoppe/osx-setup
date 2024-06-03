@@ -82,7 +82,6 @@ apps=(
   1password/tap/1password-cli
   aerial
   alacritty
-  around
   bartender
   coteditor
   cyberduck
