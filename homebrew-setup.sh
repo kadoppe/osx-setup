@@ -19,6 +19,7 @@ brew tap cloudfoundry/tap
 brew tap oven-sh/bun
 brew tap mongodb/brew
 brew tap osx-cross/avr
+brew tap johanhaleby/kubetail
 
 brew install java
 
@@ -53,6 +54,9 @@ binaries=(
   koekeishiya/formulae/skhd
   koekeishiya/formulae/yabai
   kubectx
+  kubeseal
+  kubetail
+  kustomize
   lazydocker
   lazygit
   mas
@@ -71,9 +75,12 @@ binaries=(
   skaffold
   starship
   svn
-  terraform
+  tfenv
   tmux
+  tree
+  watch
   wget
+  yarn
 )
 
 echo "Installing binaries..."
