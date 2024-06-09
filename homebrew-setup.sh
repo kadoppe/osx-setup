@@ -65,6 +65,7 @@ binaries=(
   mongodb-community
   mysql-client
   neovim
+  nkf
   node
   php
   postgresql
