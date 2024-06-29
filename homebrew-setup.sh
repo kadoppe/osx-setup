@@ -46,6 +46,7 @@ binaries=(
   gh
   ghq
   gifsicle
+  git-delta
   git-filter-repo
   gnu-sed
   go
