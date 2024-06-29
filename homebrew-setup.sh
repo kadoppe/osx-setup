@@ -26,6 +26,7 @@ brew install java
 binaries=(
   act
   aicommits
+  argo
   avr-gcc
   awscli
   bat
@@ -51,8 +52,6 @@ binaries=(
   graphviz
   httpie
   jq
-  koekeishiya/formulae/skhd
-  koekeishiya/formulae/yabai
   kubectx
   kubeseal
   kubetail
