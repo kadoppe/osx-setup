@@ -20,6 +20,7 @@ brew tap oven-sh/bun
 brew tap mongodb/brew
 brew tap osx-cross/avr
 brew tap johanhaleby/kubetail
+brew tap daipeihust/tap
 
 brew install java
 
@@ -51,6 +52,7 @@ binaries=(
   golangci-lint
   graphviz
   httpie
+  im-select
   jq
   kubectx
   kubeseal
