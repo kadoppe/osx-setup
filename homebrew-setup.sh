@@ -39,6 +39,7 @@ binaries=(
   difftastic
   direnv
   eza
+  fblog
   ffmpeg
   fish
   fsouza/prettierd/prettierd
