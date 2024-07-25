@@ -35,6 +35,7 @@ binaries=(
   bun
   cabocha
   coreutils
+  cloud-sql-proxy
   dbeaver-community
   difftastic
   direnv
