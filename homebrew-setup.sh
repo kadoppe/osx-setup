@@ -132,6 +132,7 @@ apps=(
   studio-3t
   spotify
   visual-studio-code
+  zed
   zoom
 )
 
