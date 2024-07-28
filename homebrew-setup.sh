@@ -127,6 +127,7 @@ apps=(
   notion-calendar
   obsidian
   orbstack
+  PlayCover/playcover/playcover-community
   postman
   steam
   studio-3t
