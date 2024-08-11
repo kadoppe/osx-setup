@@ -94,6 +94,7 @@ brew install ${binaries[@]}
 apps=(
   1password
   1password/tap/1password-cli
+  PlayCover/playcover/playcover-community
   aerial
   alacritty
   arc
@@ -115,23 +116,23 @@ apps=(
   google-chrome
   google-cloud-sdk
   google-japanese-ime
-  keyboard-cleaner
   karabiner-elements
+  keyboard-cleaner
   kindle
   linear-linear
   messenger
   microsoft-edge
   mos
   ngrok
+  nikitabobko/tap/aerospace
   notion
   notion-calendar
   obsidian
   orbstack
-  PlayCover/playcover/playcover-community
   postman
+  spotify
   steam
   studio-3t
-  spotify
   visual-studio-code
   zed
   zoom
