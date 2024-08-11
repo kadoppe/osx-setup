@@ -112,6 +112,8 @@ apps=(
   font-fontawesome
   font-noto-sans-cjk-jp
   font-roboto
+  font-udev-gothic
+  font-udev-gothic-nf
   gather
   google-chrome
   google-cloud-sdk
