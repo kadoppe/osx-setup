@@ -71,6 +71,7 @@ binaries=(
   neovim
   nkf
   node
+  osker
   php
   postgresql
   pyenv
