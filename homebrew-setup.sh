@@ -74,8 +74,6 @@ binaries=(
   osker
   php
   postgresql
-  pyenv
-  pyenv-virtualenv
   qmk/qmk/qmk
   ripgrep
   skaffold
