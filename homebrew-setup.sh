@@ -41,6 +41,7 @@ binaries=(
   direnv
   eza
   fblog
+  fd
   ffmpeg
   fish
   fsouza/prettierd/prettierd
