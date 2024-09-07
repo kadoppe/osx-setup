@@ -68,7 +68,7 @@ binaries=(
   mise
   mkcert
   mongodb-community
-  mysql-client
+  mysql-client@8.4
   neovim
   nkf
   node
