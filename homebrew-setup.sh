@@ -37,6 +37,7 @@ binaries=(
   coreutils
   cloud-sql-proxy
   dbeaver-community
+  devcontainer
   difftastic
   direnv
   eza
