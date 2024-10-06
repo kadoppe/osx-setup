@@ -101,6 +101,7 @@ apps=(
   arc
   bartender
   coteditor
+  cusror
   cyberduck
   datagrip
   deepl
