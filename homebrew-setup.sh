@@ -137,6 +137,7 @@ apps=(
   spotify
   steam
   studio-3t
+  teamviewer
   visual-studio-code
   zed
   zoom
