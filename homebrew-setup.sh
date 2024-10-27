@@ -11,9 +11,6 @@ brew update
 echo "Updating existing binaries"
 brew upgrade
 
-brew tap homebrew/cask
-brew tap homebrew/cask-fonts
-brew tap homebrew/cask-versions
 brew tap sanemat/font
 brew tap cloudfoundry/tap
 brew tap oven-sh/bun
@@ -36,7 +33,6 @@ binaries=(
   cabocha
   coreutils
   cloud-sql-proxy
-  dbeaver-community
   devcontainer
   difftastic
   direnv
@@ -73,7 +69,6 @@ binaries=(
   neovim
   nkf
   node
-  osker
   php
   postgresql
   qmk/qmk/qmk
@@ -94,14 +89,11 @@ brew install ${binaries[@]}
 
 apps=(
   1password
-  1password/tap/1password-cli
-  PlayCover/playcover/playcover-community
   aerial
   alacritty
   arc
   bartender
   coteditor
-  cusror
   cyberduck
   datagrip
   deepl
@@ -130,13 +122,10 @@ apps=(
   ngrok
   nikitabobko/tap/aerospace
   notion
-  notion-calendar
-  obsidian
   orbstack
   postman
   spotify
   steam
-  studio-3t
   teamviewer
   visual-studio-code
   zed
@@ -153,8 +142,6 @@ storeapps=(
   803453959 # Slack
   497799835 # XCode
   585829637 # Todoist
-  1291898086 # Toggl
-  1521432881 # Session
 )
 
 mas upgrade
