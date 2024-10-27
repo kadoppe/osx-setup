@@ -29,7 +29,6 @@ binaries=(
   awscli
   bat
   bufbuild/buf/buf
-  bun
   cabocha
   coreutils
   cloud-sql-proxy
@@ -69,13 +68,11 @@ binaries=(
   neovim
   nkf
   node
-  php
   postgresql
   qmk/qmk/qmk
   ripgrep
   skaffold
   starship
-  svn
   tfenv
   tmux
   tree
