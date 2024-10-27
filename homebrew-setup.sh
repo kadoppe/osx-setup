@@ -36,6 +36,7 @@ binaries=(
   difftastic
   direnv
   eza
+  fastfetch
   fblog
   fd
   ffmpeg
