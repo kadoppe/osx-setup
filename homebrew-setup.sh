@@ -18,6 +18,8 @@ brew tap mongodb/brew
 brew tap osx-cross/avr
 brew tap johanhaleby/kubetail
 brew tap daipeihust/tap
+brew tap jorgerojas26/lazysql
+brew install lazysql
 
 brew install java
 
@@ -61,6 +63,7 @@ binaries=(
   kustomize
   lazydocker
   lazygit
+  lazysql
   mas
   mise
   mkcert
@@ -93,7 +96,6 @@ apps=(
   bartender
   coteditor
   cyberduck
-  datagrip
   deepl
   discord
   dropbox
