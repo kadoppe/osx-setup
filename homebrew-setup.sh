@@ -33,10 +33,8 @@ binaries=(
   awscli
   bat
   bufbuild/buf/buf
-  cabocha
   coreutils
   cloud-sql-proxy
-  devcontainer
   difftastic
   direnv
   eza
@@ -45,7 +43,6 @@ binaries=(
   fd
   ffmpeg
   fish
-  fsouza/prettierd/prettierd
   fzf
   gh
   ghq
@@ -93,18 +90,13 @@ brew install ${binaries[@]}
 
 apps=(
   1password
-  aerial
   alacritty
   arc
   bartender
   coteditor
-  cyberduck
-  deepl
   discord
-  dropbox
   figma
   firefox
-  flutter
   font-fira-code-nerd-font
   font-fontawesome
   font-noto-sans-cjk-jp
@@ -114,10 +106,8 @@ apps=(
   gather
   google-chrome
   google-cloud-sdk
-  google-japanese-ime
   karabiner-elements
   keyboard-cleaner
-  kindle
   linear-linear
   messenger
   microsoft-edge
@@ -129,9 +119,7 @@ apps=(
   postman
   spotify
   steam
-  teamviewer
   visual-studio-code
-  zed
   zoom
 )
 
