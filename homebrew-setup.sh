@@ -94,6 +94,7 @@ apps=(
   arc
   bartender
   coteditor
+  cursor
   discord
   figma
   firefox
@@ -115,6 +116,7 @@ apps=(
   ngrok
   nikitabobko/tap/aerospace
   notion
+  obsidian
   orbstack
   postman
   spotify
