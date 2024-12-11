@@ -93,6 +93,7 @@ apps=(
   alacritty
   arc
   bartender
+  chatgpt
   coteditor
   discord
   figma
