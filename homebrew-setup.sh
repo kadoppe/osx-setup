@@ -112,7 +112,7 @@ apps=(
   linear-linear
   messenger
   microsoft-edge
-  mos
+  minecraft
   ngrok
   nikitabobko/tap/aerospace
   notion
@@ -121,6 +121,7 @@ apps=(
   spotify
   steam
   visual-studio-code
+  warp
   zoom
 )
 
