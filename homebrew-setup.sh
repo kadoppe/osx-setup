@@ -80,6 +80,7 @@ binaries=(
   tfenv
   tmux
   tree
+  uv
   watch
   wget
   yarn
@@ -116,6 +117,7 @@ apps=(
   ngrok
   nikitabobko/tap/aerospace
   notion
+  notion-calendar
   orbstack
   postman
   spotify
