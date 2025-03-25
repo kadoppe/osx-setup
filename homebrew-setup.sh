@@ -61,6 +61,7 @@ binaries=(
   kubeseal
   kubetail
   kustomize
+  lavat
   lazydocker
   lazygit
   lazysql
