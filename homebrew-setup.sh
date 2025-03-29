@@ -97,6 +97,7 @@ apps=(
   bartender
   chatgpt
   coteditor
+  cursor
   discord
   figma
   firefox
@@ -109,6 +110,7 @@ apps=(
   gather
   google-chrome
   google-cloud-sdk
+  ghostty
   karabiner-elements
   keyboard-cleaner
   linear-linear
@@ -121,6 +123,7 @@ apps=(
   notion-calendar
   orbstack
   postman
+  raycast
   spotify
   steam
   visual-studio-code
