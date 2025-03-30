@@ -98,6 +98,7 @@ apps=(
   chatgpt
   coteditor
   cursor
+  datagrip
   discord
   figma
   firefox
