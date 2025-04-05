@@ -79,6 +79,7 @@ binaries=(
   skaffold
   starship
   tfenv
+  tlrc
   tmux
   tree
   uv
