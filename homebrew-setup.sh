@@ -52,6 +52,7 @@ binaries=(
   gnu-sed
   go
   golangci-lint
+  gpg
   graphviz
   httpie
   im-select
