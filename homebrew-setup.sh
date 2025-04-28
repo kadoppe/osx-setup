@@ -97,6 +97,7 @@ apps=(
   alacritty
   arc
   bartender
+  bruno
   chatgpt
   coteditor
   cursor
