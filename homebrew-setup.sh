@@ -27,7 +27,6 @@ brew install java
 
 binaries=(
   act
-  aicommits
   argo
   avr-gcc
   awscli
