@@ -37,6 +37,7 @@ binaries=(
   difftastic
   direnv
   eza
+  entr
   fastfetch
   fblog
   fd
