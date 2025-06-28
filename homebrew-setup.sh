@@ -84,6 +84,7 @@ binaries=(
   tmux
   tree
   uv
+  vale
   watch
   wget
   yarn
@@ -144,7 +145,6 @@ storeapps=(
   803453959 # Slack
   497799835 # XCode
   585829637 # Todoist
-  6714467650 # Perplexity
 )
 
 mas upgrade
