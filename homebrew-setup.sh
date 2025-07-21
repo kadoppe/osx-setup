@@ -111,12 +111,12 @@ apps=(
   font-roboto
   font-udev-gothic
   font-udev-gothic-nf
-  gather
   google-chrome
   google-cloud-sdk
   ghostty
   karabiner-elements
   keyboard-cleaner
+  kiro
   linear-linear
   messenger
   microsoft-edge
