@@ -107,6 +107,7 @@ apps=(
   firefox
   font-fira-code-nerd-font
   font-fontawesome
+  font-iosevka-nerd-font
   font-noto-sans-cjk-jp
   font-roboto
   font-udev-gothic
