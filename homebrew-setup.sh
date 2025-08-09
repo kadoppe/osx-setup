@@ -99,6 +99,7 @@ apps=(
   alacritty
   arc
   bartender
+  boarders
   chatgpt
   coteditor
   cursor
@@ -111,6 +112,9 @@ apps=(
   font-iosevka-nerd-font
   font-noto-sans-cjk-jp
   font-roboto
+  font-sf-mono
+  font-sf-pro
+  font-sketchybar-app-font
   font-udev-gothic
   font-udev-gothic-nf
   google-chrome
@@ -130,6 +134,8 @@ apps=(
   orbstack
   postman
   raycast
+  sketchybar
+  sf-symbols
   spotify
   steam
   visual-studio-code
