@@ -21,8 +21,6 @@ brew tap daipeihust/tap
 brew tap jorgerojas26/lazysql
 brew tap mike-engel/jwt-cli
 
-brew install lazysql
-
 brew install java
 
 binaries=(
