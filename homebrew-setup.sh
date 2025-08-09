@@ -29,10 +29,13 @@ binaries=(
   avr-gcc
   awscli
   bat
+  btop
   bufbuild/buf/buf
   bun
   coreutils
+  claude-code
   cloud-sql-proxy
+  codex
   difftastic
   direnv
   eza
