@@ -32,6 +32,7 @@ binaries=(
   awscli
   bat
   bufbuild/buf/buf
+  bun
   coreutils
   cloud-sql-proxy
   difftastic
