@@ -139,6 +139,7 @@ apps=(
   sf-symbols
   spotify
   steam
+  tailscale-app
   visual-studio-code
   zoom
 )
