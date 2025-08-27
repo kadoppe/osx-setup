@@ -100,6 +100,7 @@ apps=(
   alacritty
   arc
   bartender
+  bettertouchtool
   boarders
   chatgpt
   coteditor
