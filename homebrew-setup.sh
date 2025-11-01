@@ -90,6 +90,7 @@ binaries=(
   watch
   wget
   yarn
+  yq
 )
 
 echo "Installing binaries..."
@@ -130,7 +131,6 @@ apps=(
   microsoft-edge
   mos
   ngrok
-  nikitabobko/tap/aerospace
   notion
   notion-calendar
   orbstack
