@@ -77,7 +77,6 @@ binaries=(
   nkf
   node
   postgresql
-  qmk/qmk/qmk
   ripgrep
   skaffold
   starship
