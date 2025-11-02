@@ -14,6 +14,7 @@ fisher install 0rax/fish-bd
 fisher install oh-my-fish/plugin-peco
 fisher install yoshiori/fish-peco_select_ghq_repository
 fisher install edc/bass
+fisher install catppuccin/fish
 
 echo "Update all plugin..."
 fisher update
