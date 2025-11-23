@@ -25,6 +25,7 @@ brew install java
 
 binaries=(
   act
+  aicommit2
   argo
   avr-gcc
   awscli
@@ -46,6 +47,7 @@ binaries=(
   ffmpeg
   fish
   fzf
+  gemini-cli
   gh
   ghq
   gifsicle
