@@ -92,6 +92,8 @@ binaries=(
   wget
   yarn
   yq
+  max-sixty/worktrunk/wt
+  cloudflare-wrangler
 )
 
 echo "Installing binaries..."
