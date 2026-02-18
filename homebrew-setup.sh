@@ -146,6 +146,7 @@ apps=(
   spotify
   steam
   tailscale-app
+  typeless
   visual-studio-code
   zoom
 )
