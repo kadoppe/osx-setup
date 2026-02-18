@@ -107,8 +107,10 @@ apps=(
   bettertouchtool
   boarders
   chatgpt
+  claude
   coteditor
   cursor
+  conductor
   datagrip
   discord
   figma
