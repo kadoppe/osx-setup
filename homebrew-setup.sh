@@ -20,6 +20,7 @@ brew tap johanhaleby/kubetail
 brew tap daipeihust/tap
 brew tap jorgerojas26/lazysql
 brew tap mike-engel/jwt-cli
+brew tap y3owk1n/tap
 
 brew install java
 
@@ -135,6 +136,7 @@ apps=(
   messenger
   microsoft-edge
   mos
+  neru
   ngrok
   notion
   notion-calendar
