@@ -59,6 +59,7 @@ binaries=(
   golangci-lint
   gpg
   graphviz
+  herdr
   httpie
   im-select
   jwt-cli
@@ -103,6 +104,7 @@ brew install ${binaries[@]}
 apps=(
   1password
   alacritty
+  antinote
   arc
   bartender
   bettertouchtool
