@@ -38,6 +38,7 @@ binaries=(
   claude-code
   cloud-sql-proxy
   codex
+  crit
   difftastic
   direnv
   eza
@@ -61,6 +62,7 @@ binaries=(
   graphviz
   herdr
   httpie
+  hunk
   im-select
   jwt-cli
   jq
