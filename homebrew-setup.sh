@@ -90,6 +90,7 @@ binaries=(
   tlrc
   tmux
   tree
+  tree-sitter-cli
   uv
   vale
   watch
