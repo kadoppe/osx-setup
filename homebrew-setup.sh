@@ -60,6 +60,7 @@ binaries=(
   golangci-lint
   gpg
   graphviz
+  harlequin
   herdr
   httpie
   hunk
