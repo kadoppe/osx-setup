@@ -79,6 +79,7 @@ binaries=(
   mise
   mkcert
   mongodb-community
+  moon
   mysql-client@8.4
   neovim
   nkf
